@@ -1,0 +1,200 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+// Homepage post titles - smaller but still semantic H2
+.home .archive__item-title {
+  font-size: 1.3em; // Make them look like H3
+  font-weight: 600; // Keep bold appearance
+  margin-bottom: 0.2em;
+}
+
+// Optional: Make the excerpt text smaller too
+.home .archive__item-excerpt {
+  font-size: 0.9em;
+  color: #555;
+}
+
+
+
+
+
+
+// ========================================
+// 1. HEADER HERO STYLES
+// ========================================
+
+.page__hero--overlay {
+  padding-top: 0 !important;
+  height: 250px;
+  min-height: 250px;
+  max-height: 250px;
+  padding: 0;
+  overflow: hidden;
+  
+  &::before {
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  
+  .wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2em;
+    padding-top: 4em; // Space for navigation
+    background: rgba(0,0,0,0.0);
+  }
+  
+  .page__title {
+    font-size: 1.3em;
+    margin-bottom: 0.1em;
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+  }
+  
+  .page__lead {
+    font-size: 0.85em;
+    margin-bottom: 0;
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    max-width: 70%;
+  }
+}
+
+.page__hero-image {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+}
+
+// ========================================
+// 2. NAVIGATION STYLES
+// ========================================
+
+// DEFAULT: All pages get dark navigation
+.greedy-nav,
+.masthead {
+  background: #fff !important;
+  border-bottom: 1px solid #e0e0e0 !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+  position: relative !important;
+  
+  .greedy-nav__inner-wrap,
+  .masthead__inner-wrap {
+    background: #fff !important;
+  }
+  
+  .greedy-nav__menu-item a,
+  .masthead__menu-item a,
+  .site-title,
+  .nav__list .nav__item a {
+    color: #333 !important;
+    text-shadow: none !important;
+    font-weight: 600;
+    
+    &:hover {
+      color: #000 !important;
+    }
+  }
+  
+  .site-logo img {
+    filter: none !important;
+  }
+  
+  .greedy-nav__toggle,
+  .search__toggle {
+    color: #333 !important;
+    text-shadow: none !important;
+  }
+}
+
+// HOMEPAGE ONLY: Transparent navigation with white text
+// Target the body with layout--home class
+body.layout--home {
+  .greedy-nav,
+  .masthead {
+    background: transparent !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    
+    .greedy-nav__inner-wrap,
+    .masthead__inner-wrap {
+      background: transparent !important;
+    }
+    
+    .greedy-nav__menu-item a,
+    .masthead__menu-item a,
+    .site-title,
+    .nav__list .nav__item a {
+      color: #fff !important;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5) !important;
+      
+      &:hover {
+        color: rgba(255,255,255,0.8) !important;
+      }
+    }
+    
+    .site-logo img {
+      filter: brightness(0) invert(1);
+    }
+    
+    .greedy-nav__toggle,
+    .search__toggle {
+      color: #fff !important;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+    
+    // Scrolled state on homepage
+    &.scrolled {
+      background: rgba(255, 255, 255, 0.95) !important;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1) !important;
+      border-bottom: 1px solid #e0e0e0 !important;
+      
+      .greedy-nav__menu-item a,
+      .masthead__menu-item a,
+      .site-title,
+      .nav__list .nav__item a,
+      .greedy-nav__toggle,
+      .search__toggle {
+        color: #333 !important;
+        text-shadow: none !important;
+      }
+      
+      .site-logo img {
+        filter: none !important;
+      }
+    }
+  }
+}
+
+// ========================================
+// 3. RESPONSIVE ADJUSTMENTS
+// ========================================
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    min-height: 120px;
+    height: 120px;
+    
+    .page__title {
+      font-size: 1em;
+    }
+    
+    .page__lead {
+      font-size: 0.7em;
+      max-width: 100%;
+    }
+  }
+}

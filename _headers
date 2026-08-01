@@ -1,0 +1,8 @@
+cd ~/Documents/_1-Project-2026/Blogsite/lifewellbalance
+cat > _headers << 'EOF'
+/sitemap.xml
+  Content-Type: application/xml
+
+/*.xml
+  Content-Type: application/xml
+EOF

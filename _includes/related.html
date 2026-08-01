@@ -1,0 +1,29 @@
+{% assign related = site.related_posts | default: site.posts %}
+
+{% if related.size > 0 %}
+  <div class="page__related">
+    <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+    <div class="grid__wrapper">
+      {% for post in related limit:3 %}
+        <div class="grid__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            {% if post.header.teaser %}
+              <div class="archive__item-teaser">
+                {% assign alt_text = post.header.teaser_alt | default: post.title | strip_html %}
+                <img src="{{ post.header.teaser | relative_url }}" alt="{{ alt_text }}">
+              </div>
+            {% endif %}
+            
+            <h2 class="archive__item-title no_toc" itemprop="headline">
+              <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+            </h2>
+            
+            <div class="archive__item-excerpt" itemprop="description">
+              {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+            </div>
+          </article>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

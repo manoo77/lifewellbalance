@@ -1,0 +1,25 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+
+    # Main navigation (top menu)
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+
+# Sidebar navigation (categories)
+categories:
+  - title: "Blood Sugar"
+    url: /categories/#blood-sugar
+  - title: "Metabolism"
+    url: /categories/#metabolism
+  - title: "Joint Health"
+    url: /categories/#joint-health
+  - title: "Anxiety"
+    url: /categories/#anxiety

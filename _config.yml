@@ -1,0 +1,125 @@
+## commands: docker-compose down, docker-compose up
+
+
+# Site Settings
+title: Life Well Balanced
+description: >-
+  "Actionable insights on metabolic health, mobility, and mental clarity. Your weekly guide to turning small daily habits into lifelong vitality."
+
+# logo: 'assets/images/Healthy-care-banner-logo.svg'
+logo: 'assets/images/life-well-balance.svg'
+
+# favicon no need to be here, the code has been added to: includes/head/custom.html and a folder of favicon in assets
+#favicon: 'assets/images/favicon.ico'
+paginate: 6
+baseurl: ""
+url: "https://lifewellbalance.com"
+google_analytics:
+
+# Build settings - Use remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+  # - jekyll-responsive-image  # REMOVED
+
+
+# Minimal Mistakes Skin
+minimal_mistakes_skin: "dirt"
+
+
+# Site Author
+author:
+  name: "Alex Morgan"
+  avatar: "/assets/images/life-well-balance.svg"
+  bio: "Alex Morgan writes about blood sugar stability, joint health, and anxiety management – because true wellness is about balance, not perfection."
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      header:  
+        teaser: /assets/images/ts-default-image.webp
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+    sidebar:
+        - title: "Categories"
+          nav: "categories"  # This references a navigation file    
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        - title: "Categories"
+          nav: "categories"
+
+# Navigation
+navigation:
+  - title: "Categories"
+    url: /categories/
+
+# footer links
+footer:
+  links:
+    - label: "Privacy Policy"
+      url: "/privacy-policy/"
+    - label: "Disclaimer"
+      url: "/disclaimer/"
+    - label: "About"
+      url: "/about/"
+
+
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+
+# Outputting
+permalink: pretty
+paginate_path: '/posts/page:num'
+
+#######################################
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - node_modules
+
+# Include these files/directories when copying to _site
+include:
+  - assets
+  - images  # If you have an images folder at root
+  - .htaccess
+  - _pages
+  - _redirects 
+  - _headers
+
