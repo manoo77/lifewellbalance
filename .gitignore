@@ -5,3 +5,9 @@ vendor/
 node_modules/
 *.log
 .DS_Store
+vendor/
+_site/
+vendor/
+_site/
+vendor/
+_site/

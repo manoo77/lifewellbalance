@@ -7,7 +7,7 @@ excerpt: blarg
 
 excerpt: "Simple, science-backed strategies for steady energy, pain-free movement, and a calm mind. <br> Start your journey to better health today."
 header:
-  overlay_image: /assets/images/1280 x 200-header-banner.webp
+  overlay_image: /assets/images/1280-200-header-banner.webp
   #overlay_image: /assets/images/1280 x 200-header-banner-2.png
   #classes: transparent-nav
   overlay_filter: 0.2
