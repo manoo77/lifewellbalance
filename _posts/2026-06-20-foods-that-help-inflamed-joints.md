@@ -11,6 +11,7 @@ header:
 
 ---
 
+Foods That Help Inflamed Joints 
 Foods That Help Inflamed Joints
 Living with joint pain can make daily life feel heavy. The good news is that certain foods that help inflamed joints can support your body and bring gentle relief. These foods are simple, easy to find, and fit into most everyday meals.
 
