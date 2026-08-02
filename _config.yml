@@ -27,7 +27,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-remote-theme
   # - jekyll-responsive-image  # REMOVED
+
 
 
 # Minimal Mistakes Skin
