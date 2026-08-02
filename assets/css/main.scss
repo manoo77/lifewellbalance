@@ -1,11 +1,15 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
+#  Only the main Sass file needs front matter- the dashes are enough
 search: false
 ---
+
 @charset "utf-8";
 
+// Use the gem's paths
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes";  // main partials
+
 
 
 // Homepage post titles - smaller but still semantic H2
@@ -20,10 +24,6 @@ search: false
   font-size: 0.9em;
   color: #555;
 }
-
-
-
-
 
 
 // ========================================
