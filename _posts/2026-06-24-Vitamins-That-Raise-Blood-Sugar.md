@@ -29,7 +29,7 @@ Foods like salmon, eggs, and fortified milk can help raise vitamin D levels. Sun
 
 🍊 Do Any Vitamins Raise Blood Sugar?
 
-![ top 9 vitamin k2 rich foods]({{ '/assets/images/vitamin-c-affect-blood-sugar.jpeg' | relative_url }})
+![ top 9 vitamin k2 rich foods]({{ '/assets/images/vitamin-c-affect-blood-sugar.webp' | relative_url }})
 
 Most vitamins do not directly raise blood sugar. However, certain supplements may affect blood sugar in indirect ways.
 
@@ -42,7 +42,7 @@ These effects are usually mild. Still, it’s important to talk with a healthcar
 🌿 Vitamin K2 Lowers Blood Sugar: A Helpful Contrast
 
 
-![ top 9 vitamin k2 rich foods]({{ '/assets/images/top-9-vitmain-k2-rich-foods.jpeg' | relative_url }})
+![ top 9 vitamin k2 rich foods]({{ '/assets/images/top-9-vitmain-k2-rich-foods.webp' | relative_url }})
 
 
 While some vitamins may influence blood sugar, others help support healthy levels. One example is vitamin k2 lowers blood sugar.

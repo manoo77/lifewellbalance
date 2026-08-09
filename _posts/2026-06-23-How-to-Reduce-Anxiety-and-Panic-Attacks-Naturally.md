@@ -26,7 +26,7 @@ A warm cup of tea can become a soothing ritual. It gives your mind a moment to s
 
 🧘 Simple Techniques to Reduce Anxiety and Panic Attacks
 
-![Best Tea to reduce Anxiety & Panic Attacks]({{ '/assets/images/chamomile-lavender-tea-to-relax.png' | relative_url }})
+![Best Tea to reduce Anxiety & Panic Attacks]({{ '/assets/images/chamomile-lavender-tea-to-relax.webp' | relative_url }})
 
 Grounding techniques help bring your focus back to the present moment. They work well during sudden waves of fear or panic.
 

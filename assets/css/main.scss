@@ -82,14 +82,15 @@ search: false
 // DEFAULT: All pages get dark navigation
 .greedy-nav,
 .masthead {
-  background: #fff !important;
-  border-bottom: 1px solid #e0e0e0 !important;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+  background: #f3f3f3 !important;
+  //border-bottom: 1px solid #e0e0e0 !important;
+  //box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
   position: relative !important;
   
   .greedy-nav__inner-wrap,
   .masthead__inner-wrap {
-    background: #fff !important;
+    //background: #fff !important;
+    background: #f3f3f3 !important;
   }
   
   .greedy-nav__menu-item a,

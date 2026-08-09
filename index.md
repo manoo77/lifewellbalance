@@ -7,7 +7,7 @@ excerpt: blarg
 
 excerpt: "Simple, science-backed strategies for steady energy, pain-free movement, and a calm mind. <br> Start your journey to better health today."
 header:
-  overlay_image: /assets/images/1280-200-header-banner.webp
+  overlay_image: /assets/images/banner/1280-200-header-banner.webp
   #overlay_image: /assets/images/1280 x 200-header-banner-2.png
   #classes: transparent-nav
   overlay_filter: 0.2
@@ -127,14 +127,12 @@ Over the coming weeks, we'll cover:
 
 ## 5. A Note on Affiliate Products (Full Transparency)
 
-As this site grows, I may recommend specific products—supplements, books, devices, or courses—that I genuinely believe can help. Some of these links will be affiliate links, meaning I may earn a small commission at no extra cost to you.
 
-Here's my promise: **I will never recommend anything I wouldn't use myself or give to my own family.** My goal is to save you time, money, and frustration by pointing you toward what actually works, based on evidence and real-world experience.
+Only what works. **I won’t recommend anything I don’t trust—period.** My goal is to save you time, money, and frustration by pointing you toward what actually works, based on evidence and real-world experience.
 
-If you ever have questions about a recommendation, I'm here to answer them. Transparency and trust are everything.
+
 
 ---
-
 ## 6. Let's Start This Journey Together
 
 You don't need to overhaul your life today. In fact, please don't. Overwhelming change is the enemy of lasting habit.

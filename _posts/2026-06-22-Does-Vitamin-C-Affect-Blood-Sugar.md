@@ -14,7 +14,7 @@ header:
 Does Vitamin C Affect Blood Sugar?
 Many people who track their health wonder: does vitamin C affect blood sugar? It’s a smart question, especially if you’re trying to manage energy levels, inflammation, or long‑term metabolic health. Vitamin C plays many roles in the body, and some of them connect to how your body handles glucose.
 
-![glucose sugar monitor]({{ '/assets/images/glucose-sugar-monitor.jpg' | relative_url }})
+![glucose sugar monitor]({{ '/assets/images/glucose-sugar-monitor.webp' | relative_url }})
 
 🍊 Vitamin C Insulin Resistance: What It Means
 Researchers have looked closely at vitamin c insulin resistance because insulin resistance is a common issue. Insulin resistance happens when your cells stop responding well to insulin. When this occurs, sugar stays in the blood instead of moving into the cells for energy.
