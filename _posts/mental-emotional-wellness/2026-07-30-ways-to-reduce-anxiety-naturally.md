@@ -22,7 +22,7 @@ header:
 Ways to Reduce Anxiety Naturally
 Anxiety can show up during busy days, stressful moments, or even quiet evenings. Learning ways to reduce anxiety naturally can help you feel calmer without relying on complicated routines. Small habits, gentle practices, and mindful choices can make a big difference in how your body and mind respond to stress.
 
-![quick ways to calm anxiety]({{ '/assets/images/quick-ways to-calm-anxiety.webp' | relative_url }})
+![quick ways to calm anxiety]({{ '/assets/images/quick-ways-to-calm-anxiety.webp' | relative_url }})
 
 
 🌿 Quick Ways to Calm Anxiety
@@ -34,7 +34,7 @@ A warm drink, like herbal tea, can soothe your body and slow racing thoughts.
 
 These simple actions help you regain control during sudden waves of anxiety.
 
-![fast ways to calm anxiety]({{ '/assets/images/fast-ways to-calm-anxiety.webp' | relative_url }})
+![fast ways to calm anxiety]({{ '/assets/images/fast-ways-to-calm-anxiety.webp' | relative_url }})
 
 
 🌼 Easy Ways to Reduce Anxiety Throughout the Day
@@ -58,7 +58,7 @@ Journaling helps you express your thoughts instead of holding them inside.
 These practices support both your mind and body, helping you feel calmer overall.
 
 
-![enatural mind body anxiety relief]({{ '/assets/images/natural-mind–body-anxiety-relief.webp' | relative_url }})
+![enatural mind body anxiety relief]({{ '/assets/images/natural-mind-body-anxiety-relief.webp' | relative_url }})
 
 
 🌺 Conclusion
