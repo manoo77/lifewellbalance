@@ -2,9 +2,18 @@
 layout: single
 title: "Anxiety and Low Magnesium: Simple Signs, Causes, and Nighttime Support"
 date: 2026-07-14
-categories: Magnesium and Mental Health
+#categories: Mental-Emotional-Wellness
 description: Learn how anxiety and low magnesium are connected, the 7 signs and symptoms of magnesium deficiency, and why magnesium is best taken at night.
-#permalink: /metabolism/
+
+tags:
+  - magnesium-deficiency
+  - anxiety-and-nutrition
+  - nighttime-relaxation
+  - stress-and-minerals
+  - mental-health-support
+  - magnesium-benefits
+  - sleep-and-anxiety
+
 author_profile: false
 header:
   teaser: /assets/images/ts-magnesium-stress.webp

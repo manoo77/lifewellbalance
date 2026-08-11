@@ -20,7 +20,6 @@ author_profile: true
 
 
 ---
-
 Welcome. If you're here, you're likely feeling the weight of modern life—maybe in your joints, in your energy levels, or in the quiet hum of worry that never seems to shut off. You're not alone, and more importantly, **you're not broken.**
 
 True wellness isn't about perfection. It's not about rigid diets, punishing exercise routines, or pretending stress doesn't exist. It's about **small, intentional choices** that add up over time. It's about understanding that your body is a connected system—and when you support one part, you support the whole.
@@ -55,7 +54,8 @@ You don't need to cut out all carbs or follow a complicated meal plan. Here are 
 3. **Move for two minutes after meals.** A short walk, a few squats, or even just standing and marching in place helps your muscles use up circulating glucose. It's free, easy, and instantly effective.
 
 
-> **Want to dive deeper?** [Read our full guide on Vitamin that raise Blood Sugar →]({% post_url /2026-06-24-Vitamins-That-Raise-Blood-Sugar %})
+> **Want to dive deeper?** [Read Our Blood Sugar Swings and how to manage it →]({% post_url/physical-wellness/2026-07-18-blood-sugar-swings %})
+
 
 ---
 
@@ -76,7 +76,7 @@ The latest research shows that joint discomfort is often driven by **chronic, lo
 
 3. **Add anti-inflammatory foods.** Omega-3s from fish or flaxseed, colourful vegetables, and spices like turmeric and ginger have real, measurable effects on joint comfort. They're not magic pills, but they're powerful allies.
 
-> **Explore more:** [Learn More About joint health →]({% post_url 2026-06-20-foods-that-help-inflamed-joints %})
+> **Explore more:** [Learn More About Exercises for Stiff Knees →]({% post_url/physical-wellness/2026-07-26-best-exercise-for-stiff-knees %})
 
 
 
@@ -100,7 +100,7 @@ What many people don't realise is that **anxiety and inflammation are linked**. 
 3. **Journal for five minutes.** Getting your racing thoughts onto paper literally reduces the cognitive load on your brain. It's not about being profound—it's about being honest. Try it before bed to quieten the "what ifs."
 
 
-> **Learn more:** [Guide on Anxiety Control →]({% post_url 2026-06-23-How-to-Reduce-Anxiety-and-Panic-Attacks-Naturally %})
+> **Learn more:** [Guide on Anxiety Control →]({% post_url/mental-emotional-wellness/2026-06-23-how-to-reduce-anxiety-and-panic-attacks-naturally %})
 
 ---
 
@@ -129,7 +129,6 @@ Over the coming weeks, we'll cover:
 
 
 Only what works. **I won’t recommend anything I don’t trust—period.** My goal is to save you time, money, and frustration by pointing you toward what actually works, based on evidence and real-world experience.
-
 
 
 ---

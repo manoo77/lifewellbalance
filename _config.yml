@@ -45,7 +45,7 @@ author:
 # Defaults
 defaults:
   - scope:
-      path: ""
+      ppath: ""
       type: posts
     values:
       layout: single
@@ -56,6 +56,36 @@ defaults:
       related: true
       header:  
         teaser: /assets/images/ts-default-image.webp
+# --- FORCE CATEGORIES BASED ON FOLDER NAMES ---
+  - scope:
+      path: "_posts/physical-wellness"
+      type: posts
+    values:
+      categories: physical-wellness
+
+  - scope:
+      path: "_posts/mental-emotional-wellness"
+      type: posts
+    values:  
+      categories: mental-emotional-wellness
+  - scope:
+      path: "financial-wellness"
+      type: posts
+    values:
+      categories: financial-wellness
+
+  - scope:
+      path: "lifestyle-productivity"
+      type: posts
+    values:
+      categories: lifestyle-productivity
+
+  - scope:
+      path: "sustainability-environment"
+      type: posts
+    values:
+      categories: sustainability-environment
+
   - scope:
       path: ""
       type: pages
@@ -102,8 +132,11 @@ jekyll-archives:
   layout: archive
 
 # Outputting
-permalink: pretty
-paginate_path: '/posts/page:num'
+##permalink: pretty
+##paginate_path: '/posts/page:num'
+
+permalink: /:categories/:year/:month/:day/:title/
+
 
 #######################################
 

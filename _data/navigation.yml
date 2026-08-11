@@ -14,12 +14,19 @@ main:
     url: /categories/
 
 # Sidebar navigation (categories)
+# _data/navigation.yml
 categories:
-  - title: "Blood Sugar"
-    url: /categories/#blood-sugar
-  - title: "Metabolism"
-    url: /categories/#metabolism
-  - title: "Joint Health"
-    url: /categories/#joint-health
-  - title: "Anxiety"
-    url: /categories/#anxiety
+  - title: "Physical Wellness"
+    url: /categories/#physical-wellness
+
+  - title: "Mental & Emotional Wellness"
+    url: /categories/#mental-emotional-wellness
+
+  #- title: "Financial Wellness"
+   # url: /categories/#financial-wellness
+
+  #- title: "Lifestyle & Productivity"
+   # url: /categories/#lifestyle-productivity
+
+  #- title: "Sustainability & Environment"
+  #  url: /categories/#sustainability-environment

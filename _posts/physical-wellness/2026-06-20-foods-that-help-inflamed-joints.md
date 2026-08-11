@@ -2,8 +2,16 @@
 layout: single
 title: "Foods that Help Inflamed Joints"
 date: 2026-07-14
-categories: joint-health-mobility
+#categories: Physical-Wellness
 description: Learn about foods that help inflamed joints, foods that fight arthritis and inflammation, and food to reduce knee joint pain.
+tags:
+  - anti-inflammatory-foods
+  - joint-health-nutrition
+  - arthritis-support
+  - healthy-fats
+  - natural-pain-relief
+  - whole-food-healing
+
 #permalink: /metabolism/
 author_profile: false
 header:

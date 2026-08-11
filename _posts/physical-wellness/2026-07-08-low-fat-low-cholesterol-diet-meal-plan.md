@@ -2,8 +2,17 @@
 layout: single
 title: "Low Fat Low Cholesterol Diet Meal Plan for Heart‑Healthy Eating"
 date: 2026-07-14
-categories: Heart‑Healthy Nutrition
+#categories: Physical-Wellness
 description: A simple, easy-to-follow low fat low cholesterol diet meal plan with daily ideas to lower cholesterol naturally.
+tags:
+  - heart-healthy-nutrition
+  - low-cholesterol-diet
+  - low-fat-meal-plan
+  - cardiovascular-health
+  - healthy-eating
+  - balanced-meals
+  - nutrition-for-heart
+
 #permalink: /metabolism/
 author_profile: false
 header:

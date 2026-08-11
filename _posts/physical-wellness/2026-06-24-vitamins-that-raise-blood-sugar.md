@@ -2,8 +2,16 @@
 layout: single
 title: "Vitamins That Raise Blood Sugar"
 date: 2026-07-14
-categories: Metabolic-Health-Blood-Sugar
+#categories: Physical-Wellness
 description: Learn which vitamins may raise blood sugar, how low vitamin D affects blood sugar, and why vitamin K2 lowers blood sugar.
+tags:
+  - vitamins-and-blood-sugar
+  - metabolic-nutrition
+  - vitamin-d-deficiency
+  - vitamin-k2-benefits
+  - glucose-management
+  - nutrition-science
+
 #permalink: /metabolism/
 author_profile: false
 header:
