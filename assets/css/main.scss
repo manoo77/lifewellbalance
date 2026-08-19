@@ -51,6 +51,7 @@ search: false
     padding: 0 2em;
     padding-top: 4em; // Space for navigation
     background: rgba(0,0,0,0.0);
+    //background: rgba(212, 41, 41, 0);
   }
   
   .page__title {
@@ -58,6 +59,7 @@ search: false
     margin-bottom: 0.1em;
     color: #fff;
     text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    //text-shadow: 0 1px 3px rgba(206, 24, 24, 0.5);
   }
   
   .page__lead {
@@ -83,6 +85,7 @@ search: false
 .greedy-nav,
 .masthead {
   background: #f3f3f3 !important;
+  //background: #940d0d !important;
   //border-bottom: 1px solid #e0e0e0 !important;
   //box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
   position: relative !important;
@@ -98,6 +101,7 @@ search: false
   .site-title,
   .nav__list .nav__item a {
     color: #333 !important;
+    //color: #831010 !important;
     text-shadow: none !important;
     font-weight: 600;
     
@@ -140,6 +144,7 @@ body.layout--home {
     .masthead__menu-item a,
     .site-title,
     .nav__list .nav__item a {
+      
       color: #fff !important;
       text-shadow: 0 1px 3px rgba(0,0,0,0.5) !important;
       
