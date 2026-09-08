@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Does Vitamin C Affect Blood Sugar?"
-date: 2026-07-14
+date: 2026-06-22
 #categories: Physical-Wellness
 description: Learn whether vitamin C affects blood sugar, how vitamin C insulin resistance works, and what it means for vitamin C and type 2 diabetes.
 tags:

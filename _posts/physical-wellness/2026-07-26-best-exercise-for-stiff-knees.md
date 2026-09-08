@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Best Exercise for Stiff Knees"
-date: 2026-07-14
+date: 2026-07-26
 #categories: Physical-Wellness
 description: Learn the best exercise for stiff knees, plus stretching exercises for stiff knees and simple knee exercises for stiffness.
 tags:
