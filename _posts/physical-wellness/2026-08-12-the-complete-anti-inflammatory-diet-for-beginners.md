@@ -50,9 +50,9 @@ Citrus fruits add vitamin C, which helps your body build collagen. Collagen supp
 
 These foods are simple to add to your daily routine. A spoon of olive oil, a pinch of turmeric, or a cup of green tea can help your knees feel better over time.
 
-![aanti inflammatory foods ]({{ '/assets/images/anti-inflammatory-foods-2.webp' | relative_url }})
+![anti inflammatory foods ]({{ '/assets/images/antiInflammatoryFoods-2.webp' | relative_url }})
 
-🥗 Building the Complete Anti‑Inflammatory Diet for Beginners
+🥗 Building the Complete Anti-Inflammatory Diet for Beginners
 
 The complete anti‑inflammatory diet for beginners is not strict or complicated. It’s a gentle shift toward whole foods and away from processed meals.
 
@@ -63,7 +63,7 @@ Add colorful vegetables to every plate. The more color you see, the more helpful
 This diet is flexible. You can adjust it to your taste, your culture, and your lifestyle.
 
 
-![anti inflammatory diet]({{ '/assets/images/anti‑inflammatory-foods.webp' | relative_url }})
+![anti inflammatory diet]({{ '/assets/images/anti-inflammatory-diet.webp' | relative_url }})
 
 🌼 Conclusion
 The complete anti‑inflammatory diet for beginners is a simple way to support your health. These foods help reduce swelling, ease joint pain, and improve daily comfort. Pair them with gentle movement, rest, and hydration for even better results.

@@ -76,7 +76,7 @@ Chair exercises: Seated leg lifts and gentle stretches improve blood flow and re
 Start slowly and listen to your body.
 If your knee feels sore, take a break and apply ice afterward.
 
-![low Impact cardio exercises for bad knees]({{ '/assets/images/low-Impact-cardio-exercises.webp' | relative_url }})
+![low impact cardio exercises for bad knees]({{ '/assets/images/low-Impact-cardio-exercises.webp' | relative_url }})
 
 
 🥗 How to Remove Fluid from the Knee Naturally Through Lifestyle
