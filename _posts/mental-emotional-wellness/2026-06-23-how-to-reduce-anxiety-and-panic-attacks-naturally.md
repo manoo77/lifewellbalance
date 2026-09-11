@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "How to Reduce Anxiety and Panic Attacks"
-date: 2026-07-14
+date: 2026-06-23
 # categories: Mental-Emotional-Wellness
 description: Learn simple ways to reduce anxiety and panic attacks, including the best tea for anxiety and natural home remedies.
 tags:

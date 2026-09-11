@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ways to Reduce Anxiety Naturally"
-date: 2026-07-14
+date: 2026-07-30
 #categories: Physical-Wellness
 description: Discover simple, effective ways to reduce anxiety naturally, including quick ways to calm anxiety and easy ways to reduce anxiety.
 
