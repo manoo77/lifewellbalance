@@ -1,0 +1,64 @@
+title: Life Well Balance
+description: "Your wellness blog"
+timezone: Europe/Stockholm
+lang: en
+
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+sidebar:
+  nav: true
+toc: true
+paginate: 10
+paginate_path: "/page:num/"
+baseurl: ""
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: tabs
+      permalink: /:title/
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category     # was: archive
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
+  - categories
+
+webmanifest: /assets/img/favicons/manifest.json
+favicon:
+  sources: []

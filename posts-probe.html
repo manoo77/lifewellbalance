@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /posts-probe.html
+---
+POST COUNT: {{ site.posts | size }}
+{% for post in site.posts %}{{ post.url }} | {{ post.title }}
+{% endfor %}

@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: /probe.html
+---
+SITE.POSTS         : {{ site.posts | size }}
+PAGINATOR.POSTS    : {{ paginator.posts | size }}
+PAGINATOR.PER_PAGE : {{ paginator.per_page }}
+ALL_PINNED         : {{ site.posts | where: 'pin', 'true' | size }}
+ALL_NORMAL         : {{ site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' | size }}
+
+{% for p in site.posts %}
+POST: {{ p.path }} | pin={{ p.pin | default: 'nil' }} | hidden={{ p.hidden | default: 'nil' }}
+{% endfor %}
