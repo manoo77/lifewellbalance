@@ -4,13 +4,13 @@ title: "Anxiety and Low Magnesium: Simple Signs, Causes, and Nighttime Support"
 date: 2026-07-14 18:58:07 +0000
 categories: [mental-emotional-wellness]
 tags: [magnesium-deficiency, anxiety-and-nutrition, nighttime-relaxation, stress-and-minerals, mental-health-support, magnesium-benefits, sleep-and-anxiety]
-image: /assets/media/ts-magnesium-stress.webp
+image: /assets/img/ts-magnesium-stress.webp
 ---
 
 Anxiety and Low Magnesium  
 Many people feel anxious without knowing why. One surprising cause can be **anxiety and low magnesium**. Magnesium is a mineral that helps calm the nervous system, relax muscles, and support steady mood. When levels drop too low, the body can feel tense, overwhelmed, and easily stressed. Understanding this connection can help you take simple steps toward feeling better.
 
-![Anxiety and Low Magnesium]({{ '/assets/media/magnesium.webp' | relative_url }})
+![Anxiety and Low Magnesium]({{ '/assets/img/magnesium.webp' | relative_url }})
 
 Link:  
 If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
@@ -30,7 +30,7 @@ Low magnesium can affect both the body and mind. Many people don’t realize the
 
 These symptoms happen because magnesium helps regulate nerve signals and muscle movement. When levels drop, the body becomes more sensitive to stress, which can increase anxiety.
 
-![signs of Low Magnesium]({{ '/assets/media/7-signs-sympotms-of-magnesium-deficiency.webp' | relative_url }})
+![signs of Low Magnesium]({{ '/assets/img/7-signs-sympotms-of-magnesium-deficiency.webp' | relative_url }})
 
 Link:  
 For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
@@ -49,7 +49,7 @@ Taking magnesium at night may help:
 
 This doesn’t mean magnesium *must* be taken at night, but many people find it more helpful before bed. It creates a gentle calming effect that supports deeper rest.
 
-![why take magnesium at night]({{ '/assets/media/take-magnesium-at-night.webp' | relative_url }})
+![why take magnesium at night]({{ '/assets/img/take-magnesium-at-night.webp' | relative_url }})
 
 Link:  
 If sleep struggles are tied to anxiety, explore [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
@@ -72,7 +72,7 @@ Short, simple habits can also help:
 
 These steps support magnesium balance and help calm the nervous system.
 
-![anxiety and low magnesium effects]({{ '/assets/media/magnesium-stress-anxiety-cycle.webp' | relative_url }})
+![anxiety and low magnesium effects]({{ '/assets/img/magnesium-stress-anxiety-cycle.webp' | relative_url }})
 
 Link:  
 For deeper guidance on calming your nervous system, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).

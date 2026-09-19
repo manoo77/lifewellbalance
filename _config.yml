@@ -3,6 +3,11 @@ description: "Your wellness blog"
 timezone: Europe/Stockholm
 lang: en
 
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
 theme: jekyll-theme-chirpy
 
 plugins:
@@ -14,6 +19,7 @@ plugins:
 
 sidebar:
   nav: true
+
 toc: true
 paginate: 10
 paginate_path: "/page:num/"
@@ -33,7 +39,7 @@ defaults:
       path: ""
       type: tabs
     values:
-      layout: tabs
+      layout: page
       permalink: /:title/
 
 jekyll-archives:

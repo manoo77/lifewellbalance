@@ -4,7 +4,7 @@ title: "Low Fat Low Cholesterol Diet Meal Plan for Heart‑Healthy Eating"
 date: 2026-07-08 10:41:23 +0000
 categories: [physical-wellness]
 tags: [heart-healthy-nutrition, low-cholesterol-diet, low-fat-meal-plan, cardiovascular-health, healthy-eating, balanced-meals, nutrition-for-heart]
-image: /assets/media/ts-low-cholestrol-food.webp
+image: /assets/img/ts-low-cholestrol-food.webp
 ---
 
 Low Fat Low Cholesterol Diet Meal Plan  
@@ -16,7 +16,7 @@ If you’re exploring heart‑healthy nutrition, you may also find helpful guida
 ## A Simple Plan to Lower Cholesterol  
 A strong plan to lower cholesterol focuses on foods that support your heart while keeping saturated fat low. You don’t need complicated recipes or expensive ingredients. Everyday foods can make a big difference.
 
-![low cholestrol food]({{ '/assets/media/low-cholesterol-diet-meal.webp' | relative_url }})
+![low cholestrol food]({{ '/assets/img/low-cholesterol-diet-meal.webp' | relative_url }})
 
 Start with these basics:
 
@@ -28,11 +28,11 @@ Fiber helps remove cholesterol from the body, while lean proteins keep meals sat
 These simple swaps can support healthier cholesterol levels over time.
 
 Link:  
-For anti‑inflammatory breakfast ideas that support heart and metabolic health, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+For anti‑inflammatory breakfast ideas that support heart and metabolic-health, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
 
 ## 🍽️ Daily Low Cholesterol Diet Plan
 
-![low cholestrol food]({{ '/assets/media/daily-low-cholestrol.webp' | relative_url }})
+![low cholestrol food]({{ '/assets/img/daily-low-cholestrol.webp' | relative_url }})
 
 A daily low cholesterol diet plan works best when it’s easy to follow. The goal is to build meals that are filling, tasty, and heart‑friendly. Here’s a sample day to inspire your routine.
 
@@ -74,7 +74,7 @@ These options keep energy steady throughout the day.
 
 ## 🌿 Building Your Own Low Fat Low Cholesterol Diet Meal Plan
 
-![plan low cholestrol food]({{ '/assets/media/low-cholesterol-diet-food.webp' | relative_url }})
+![plan low cholestrol food]({{ '/assets/img/low-cholesterol-diet-food.webp' | relative_url }})
 
 Once you understand the basics, you can build your own plan with ease. Focus on simple patterns:
 

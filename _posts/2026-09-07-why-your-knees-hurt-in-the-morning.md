@@ -3,8 +3,8 @@ layout: post
 title: "Why Your Knees Hurt in the Morning"
 date: 2026-09-07 18:37:29 +0000
 categories: [physical-wellness]
-tags: [knee pain, joint health, inflammation, morning stiffness, mobility, physical wellness]
-image: /assets/media/ts-knee-pain.webp
+tags: [knee-pain, joint-health, inflammation, morning-stiffness, mobility, physical-wellness]
+image: /assets/img/ts-knee-pain.webp
 ---
 
 Why Your Knees Hurt in the Morning (And What You Can Do About It)
@@ -13,7 +13,7 @@ Waking up with stiff, achy knees is more common than you think — especially if
 
 
 
-![knee pain]({{ '/assets/media/knee-pain.webp' | relative_url }})
+![knee pain]({{ '/assets/img/knee-pain.webp' | relative_url }})
 
 Link:  
 If you’re exploring joint health, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
@@ -89,7 +89,7 @@ Link:
 See [Blood Sugar Swings](/physical-wellness/2026-07-18-blood-sugar-swings/) for more insight into glucose fluctuations.
 
 
-![gentel movment in bed]({{ '/assets/media/gentel-movment-in-bed.webp' | relative_url }})
+![gentel movment in bed]({{ '/assets/img/gentel-movment-in-bed.webp' | relative_url }})
 
 
 🌿 How to Reduce Morning Knee Pain  

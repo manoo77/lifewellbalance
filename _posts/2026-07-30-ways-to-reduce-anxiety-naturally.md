@@ -4,13 +4,13 @@ title: "Ways to Reduce Anxiety Naturally"
 date: 2026-07-30 20:49:52 +0000
 categories: [mental-emotional-wellness]
 tags: [natural-anxiety-relief, holistic-wellness, quick-calm-techniques, daily-stress-habits, mind-body-health, herbal-calming-methods]
-image: /assets/media/ts-reducing-anxiety.webp
+image: /assets/img/ts-reducing-anxiety.webp
 ---
 
 Ways to Reduce Anxiety Naturally  
 Anxiety can show up during busy days, stressful moments, or even quiet evenings. Learning ways to reduce anxiety naturally can help you feel calmer without relying on complicated routines. Small habits, gentle practices, and mindful choices can make a big difference in how your body and mind respond to stress.
 
-![quick ways to calm anxiety]({{ '/assets/media/quick-ways-to-calm-anxiety.webp' | relative_url }})
+![quick ways to calm anxiety]({{ '/assets/img/quick-ways-to-calm-anxiety.webp' | relative_url }})
 
 Link:  
 If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
@@ -26,7 +26,7 @@ When anxiety rises fast, you need tools that work quickly. These quick ways to c
 
 These simple actions help you regain control during sudden waves of anxiety.
 
-![fast ways to calm anxiety]({{ '/assets/media/fast-ways-to-calm-anxiety.webp' | relative_url }})
+![fast ways to calm anxiety]({{ '/assets/img/fast-ways-to-calm-anxiety.webp' | relative_url }})
 
 Link:  
 For a full breathing guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
@@ -58,7 +58,7 @@ Combining physical and mental techniques creates powerful natural relief. This i
 
 These practices support both your mind and body, helping you feel calmer overall.
 
-![natural mind body anxiety relief]({{ '/assets/media/natural-mind-body-anxiety-relief.webp' | relative_url }})
+![natural mind body anxiety relief]({{ '/assets/img/natural-mind-body-anxiety-relief.webp' | relative_url }})
 
 Link:  
 For nervous system calming tools, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).

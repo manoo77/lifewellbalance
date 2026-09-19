@@ -4,7 +4,7 @@ title: "Nervous System Regulation Techniques: How to Calm Your Body and Mind Nat
 date: 2026-09-13 12:37:34 +0000
 categories: [mental-emotional-wellness]
 tags: [nervous-system, vagus-nerve, grounding-techniques, somatic-exercises, anxiety-relief, stress-reduction, mental-wellness]
-image: /assets/media/ts-anxiety-in-a-relationship.webp
+image: /assets/img/ts-how-to-calm-your-body-and-mind-naturally.webp
 ---
 
 🌿 What Nervous System Regulation Really Means

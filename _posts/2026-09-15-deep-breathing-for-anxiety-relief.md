@@ -4,7 +4,7 @@ title: "Deep Breathing for Anxiety Relief: A Simple Daily Practice That Works"
 date: 2026-09-15 11:22:02 +0000
 categories: [mental-emotional-wellness]
 tags: [deep-breathing-for-anxiety-relief, breathing-exercises-to-relieve-anxiety, deep-breathing-to-relieve-anxiety, anxiety-management, stress-relief-techniques, mental-wellness, relaxation-methods]
-image: /assets/media/ts-anxiety-relief.webp
+image: /assets/img/ts-anxiety-relief.webp
 ---
 
 Deep Breathing for Anxiety Relief: A Simple Daily Practice That Works
@@ -12,7 +12,7 @@ Deep Breathing for Anxiety Relief: A Simple Daily Practice That Works
 Feeling anxious can make your chest tight, your thoughts race, and your body tense. When anxiety hits, it’s easy to feel stuck. But one of the simplest tools for calming your mind is already with you — your breath.  
 Deep breathing for anxiety relief is a gentle, natural way to slow your heart rate, relax your muscles, and bring your focus back to the present moment.
 
-![deep breathing]({{ '/assets/media/deep-breathing.webp' | relative_url }})
+![deep breathing]({{ '/assets/img/deep-breathing.webp' | relative_url }})
 
 Link:  
 If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
@@ -34,7 +34,7 @@ For more techniques that calm the nervous system, see [Nervous System Regulation
 
 Breathing exercises to relieve anxiety are simple routines you can use anytime. They help you shift your attention away from stress and toward your body.
 
-![4-7-8 breathing technique]({{ '/assets/media/4-7-8-breathing-technique.webp' | relative_url }})
+![4-7-8 breathing technique]({{ '/assets/img/4-7-8-breathing-technique.webp' | relative_url }})
 
 ### 1. The 4‑4‑6 Method  
 This exercise is easy and works well during sudden stress.
@@ -69,7 +69,7 @@ If anxiety feels overwhelming, explore [How to Reduce Anxiety and Panic Attacks 
 
 Deep breathing to relieve anxiety works best when you use it regularly. You can add it to your morning routine, your commute, or your bedtime wind‑down.
 
-![box breathing technique]({{ '/assets/media/box-breathing-technique.webp' | relative_url }})
+![box breathing technique]({{ '/assets/img/box-breathing-technique.webp' | relative_url }})
 
 Here are simple ways to make it part of your day:
 

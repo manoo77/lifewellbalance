@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /paginator-debug.html
+---
+SITE.POSTS      : {{ site.posts | size }}
+PAGINATOR.PAGE  : {{ paginator.page | default: "nil" }}
+PAGINATOR.PER   : {{ paginator.per_page | default: "nil" }}
+PAGINATOR.POSTS : {{ paginator.posts | size | default: "nil" }}

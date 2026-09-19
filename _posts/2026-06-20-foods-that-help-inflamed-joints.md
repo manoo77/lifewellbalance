@@ -4,14 +4,14 @@ title: "Foods that Help Inflamed Joints"
 date: 2026-06-20 14:59:44 +0000
 categories: [physical-wellness]
 tags: [anti-inflammatory-foods, joint-health-nutrition, arthritis-support, healthy-fats, natural-pain-relief, whole-food-healing]
-image: /assets/media/ts-foods-that-help-inflamed-joints.webp
+image: /assets/img/ts-foods-that-help-inflamed-joints.webp
 ---
 
 Foods That Help Inflamed Joints  
 
 Living with joint pain can make daily life feel heavy. The good news is that certain foods that help inflamed joints can support your body and bring gentle relief. These foods are simple, easy to find, and fit into most everyday meals.
 
-![anti inflammatory foods]({{ '/assets/media/anti-inflammatory-foods.webp' | relative_url }})
+![anti inflammatory foods]({{ '/assets/img/anti-inflammatory-foods.webp' | relative_url }})
 
 🥑 Anti‑Inflammatory Foods That Fight Arthritis and Inflammation  
 
@@ -40,7 +40,7 @@ Many everyday foods can help soothe joint discomfort. Olive oil is a great examp
 Spices such as turmeric and ginger also help calm swelling. Turmeric’s active ingredient, curcumin, supports joint comfort over time.
 
 Link:
-![Best foods that help to reduce joint pain]({{ '/assets/media/Best-foods-that-help-to-reduce-joint-pain.webp' | relative_url }})
+![Best foods that help to reduce joint pain]({{ '/assets/img/Best-foods-that-help-to-reduce-joint-pain.webp' | relative_url }})
 
 Nuts and seeds — like walnuts and almonds — add healthy fats that help keep joints flexible.
 
@@ -57,13 +57,13 @@ Add them to:
 - salads  
 
 Link:  
-They also help stabilize blood sugar, which is important because glucose spikes can worsen inflammation. Learn more in [Hidden Causes of Blood Sugar Spikes](/physical-wellness/hidden-causes-of-blood-sugar-spikes/).
+They also help stabilize blood sugar, which is important because glucose-spikes can worsen inflammation. Learn more in [Hidden Causes of Blood Sugar Spikes](/physical-wellness/hidden-causes-of-blood-sugar-spikes/).
 
 These foods are simple to add to your routine. A spoon of olive oil, a pinch of turmeric, or a handful of nuts can make a real difference.
 
 🦵 Best Food to Reduce Knee Joint Pain  
 
-![foods that help to reduce knee joint pain]({{ '/assets/media/food-for-knee-pain-relief.webp' | relative_url }})
+![foods that help to reduce knee joint pain]({{ '/assets/img/food-for-knee-pain-relief.webp' | relative_url }})
 
 Knee pain is common, especially as we age or stay active. Adding food to reduce knee joint pain to your meals may help ease pressure and improve movement.
 

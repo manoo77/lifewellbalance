@@ -3,15 +3,15 @@ layout: post
 title: "Anti-Inflammatory Breakfast Ideas"
 date: 2026-09-03 20:34:23 +0000
 categories: [physical-wellness]
-tags: [anti-inflammatory diet, breakfast ideas, joint health, inflammation reduction, healthy eating, blood sugar balance, physical wellness]
-image: /assets/media/ts-anti-inflammatory-breakfast.webp
+tags: [anti-inflammatory-diet, breakfast-ideas, joint-health, inflammation-reduction, healthy-eating, blood-sugar-balance, physical-wellness]
+image: /assets/img/ts-anti-inflammatory-breakfast.webp
 ---
 
 Anti‑Inflammatory Breakfast Ideas to Support Joint Health and Reduce Inflammation
 
 Starting your day with anti‑inflammatory breakfast ideas can make a big difference in how your body feels. The right foods help calm inflammation, support joint comfort, and keep blood sugar steady — all before lunchtime. These meals are simple, nourishing, and easy to prepare, even on busy mornings.
 
-![anti-inflammatory breakfast]({{ '/assets/media/anti-inflammatory-breakfast.webp
+![anti-inflammatory breakfast]({{ '/assets/img/anti-inflammatory-breakfast.webp
 ' | relative_url }})
 
 Link:  
@@ -78,7 +78,7 @@ Eggs offer protein for steady energy, while spinach and tomatoes add antioxidant
 
 This breakfast is filling, nutrient‑dense, and supports joint mobility.
 
-![apple walnut anti‑Inflammatory parfait]({{ '/assets/media/apple-walnut-anti‑inflammatory-parfait .webp' | relative_url }})
+![apple walnut anti‑inflammatory parfait]({{ '/assets/img/apple-walnut-anti‑inflammatory-parfait .webp' | relative_url }})
 
  
 

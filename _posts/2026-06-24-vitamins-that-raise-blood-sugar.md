@@ -4,7 +4,7 @@ title: "Vitamins That Raise Blood Sugar"
 date: 2026-06-24 18:11:18 +0000
 categories: [physical-wellness]
 tags: [vitamins-and-blood-sugar, metabolic-nutrition, vitamin-d-deficiency, vitamin-k2-benefits, glucose-management, nutrition-science]
-image: /assets/media/ts-vitamin-that-raise-blood-sugar.webp
+image: /assets/img/ts-vitamin-that-raise-blood-sugar.webp
 ---
 
 Vitamins That Raise Blood Sugar  
@@ -12,7 +12,7 @@ Many people try to manage their blood sugar through diet and supplements. This l
 
 Understanding how these vitamins work can help you make safer, more informed choices.
 
-![vitamin d deficiency]({{ '/assets/media/vitamin-d-deficiency.webp' | relative_url }})
+![vitamin d deficiency]({{ '/assets/img/vitamin-d-deficiency.webp' | relative_url }})
 
 🌞 Low Vitamin D and Blood Sugar: Why It Matters  
 Research shows a clear link between low vitamin D and blood sugar. When vitamin D levels drop, the body may struggle to use insulin well. Insulin helps move sugar from the blood into the cells. When insulin doesn’t work properly, blood sugar rises.
@@ -27,7 +27,7 @@ For more guidance on glucose fluctuations, see [Blood Sugar Swings](/physical-we
 
 🍊 Do Any Vitamins Raise Blood Sugar?  
 
-![vitamin c affect blood sugar]({{ '/assets/media/vitamin-c-affect-blood-sugar.webp' | relative_url }})
+![vitamin c affect blood sugar]({{ '/assets/img/vitamin-c-affect-blood-sugar.webp' | relative_url }})
 
 Most vitamins do not directly raise blood sugar. However, certain supplements may affect blood sugar in indirect ways.
 
@@ -41,7 +41,7 @@ If you’re exploring how vitamins affect inflammation and metabolism, see [Anti
 
 🌿 Vitamin K2 Lowers Blood Sugar: A Helpful Contrast  
 
-![top 9 vitamin k2 rich foods]({{ '/assets/media/top-9-vitmain-k2-rich-foods.webp' | relative_url }})
+![top 9 vitamin k2 rich foods]({{ '/assets/img/top-9-vitmain-k2-rich-foods.webp' | relative_url }})
 
 While some vitamins may influence blood sugar, others help support healthy levels. One example is vitamin K2.
 

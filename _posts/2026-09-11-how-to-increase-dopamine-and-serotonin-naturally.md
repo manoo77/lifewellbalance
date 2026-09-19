@@ -4,7 +4,7 @@ title: "How to Increase Dopamine and Serotonin Naturally"
 date: 2026-09-11 20:20:23 +0000
 categories: [mental-emotional-wellness]
 tags: [boost-dopamine, increase-serotonin, mental-health, mood-support, natural-wellness, healthy-habits, brain-health]
-image: /assets/media/ts-boost-your-mood.webp
+image: /assets/img/ts-boost-your-mood.webp
 ---
 
 How to Increase Dopamine and Serotonin Naturally
@@ -25,7 +25,7 @@ Short walks, stretching, or light yoga calm your nervous system and increase blo
 
 Try adding small bursts of movement throughout your day. A 10‑minute walk after lunch or a quick stretch break can make a big difference. The goal is consistency, not perfection.
 
-![boost your mood]({{ '/assets/media/boost-your-mood.webp' | relative_url }})
+![boost your mood]({{ '/assets/img/boost-your-mood.webp' | relative_url }})
 
 Link:  
 For more movement ideas that support emotional balance, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
@@ -53,7 +53,7 @@ Sleep also plays a major role. When you rest well, your brain resets its dopamin
 
 Try keeping a simple sleep routine: consistent bedtimes, limited screens before bed, and a cool, dark room.
 
-![calm practice]({{ '/assets/media/calm-practice.webp' | relative_url }})
+![calm practice]({{ '/assets/img/calm-practice.webp' | relative_url }})
 
 Link:  
 If sleep struggles are tied to anxiety, explore [How to Reduce Anxiety and Panic Attacks Naturally](/mental-emotional-wellness/2026-06-23-how-to-reduce-anxiety-and-panic-attacks-naturally/).

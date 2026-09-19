@@ -4,7 +4,7 @@ title: "Best Exercise for Stiff Knees"
 date: 2026-07-26 09:54:24 +0000
 categories: [physical-wellness]
 tags: [knee-mobility, joint-stiffness-relief, low-impact-exercise, stretching-routines, leg-strengthening, pain-free-movement]
-image: /assets/media/ts-knee-stiffnes.webp
+image: /assets/img/ts-knee-stiffnes.webp
 ---
 
 The Best Exercise for Stiff Knees: Walking + Gentle Low‑Impact Movement  
@@ -160,6 +160,6 @@ If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/ment
 The best exercise for stiff knees is simple: gentle, consistent movement. Walking, stretching, and beginner‑friendly strength exercises help reduce stiffness, improve mobility, and support long‑term joint comfort.
 
 Link:  
-For more guidance on inflammation, mobility, and metabolic health, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, mobility, and metabolic-health, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

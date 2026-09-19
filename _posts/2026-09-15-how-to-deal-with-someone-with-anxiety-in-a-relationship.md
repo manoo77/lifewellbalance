@@ -4,7 +4,7 @@ title: "How to Deal With Someone With Anxiety in a Relationship"
 date: 2026-09-15 15:42:38 +0000
 categories: [mental-emotional-wellness]
 tags: [relationship-support, mental-health, anxiety-in-relationships, communication-skills, emotional-wellbeing, healthy-relationships]
-image: /assets/media/ts-anxiety-in-a-relationship.webp
+image: /assets/img/ts-anxiety-in-a-relationship.webp
 ---
 
 How to Deal With Someone With Anxiety in a Relationship
@@ -16,7 +16,7 @@ Anxiety shows up in many ways. Some people worry about the future. Others fear c
 Link:  
 Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
 
-![handle anxiety in relationships]({{ '/assets/media/handle-anxiety-in-relationships.webp' | relative_url }})
+![handle anxiety in relationships]({{ '/assets/img/handle-anxiety-in-relationships.webp' | relative_url }})
 
 Link:  
 If you want a full guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
@@ -31,7 +31,7 @@ It also helps to learn your partner’s triggers. A trigger is anything that spa
 
 Another key step is to avoid taking their anxiety personally. Their worry is not a sign that you did something wrong. It is a sign that they need reassurance, structure, or space to calm down.
 
-![deal with partner with anxiety]({{ '/assets/media/deal-with-partner-with-anxiety.webp' | relative_url }})
+![deal with partner with anxiety]({{ '/assets/img/deal-with-partner-with-anxiety.webp' | relative_url }})
 
 Link:  
 For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/mental-emotional-wellness/2026-09-04-how-to-stop-worrying-about-things-you-cant-control/).
@@ -51,7 +51,7 @@ When your partner feels anxious, small supportive actions can make a big differe
 Link:  
 If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/mental-emotional-wellness/2026-07-14-anxiety-and-low-magnesium/).
 
-![building a stronger relationship together]({{ '/assets/media/building-a-stronger-relationship-together.webp' | relative_url }})
+![building a stronger relationship together]({{ '/assets/img/building-a-stronger-relationship-together.webp' | relative_url }})
 
 ## Building a Stronger Relationship Together
 

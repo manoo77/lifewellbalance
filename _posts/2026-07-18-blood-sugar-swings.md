@@ -4,13 +4,13 @@ title: "Blood Sugar Swings"
 date: 2026-07-18 18:21:37 +0000
 categories: [physical-wellness]
 tags: [blood-sugar-control, glucose-spikes, metabolic-health, symptoms-and-causes, energy-balance, healthy-habits]
-image: /assets/media/ts-blood-sugar-swing.webp
+image: /assets/img/ts-blood-sugar-swing.webp
 ---
 
 🩺 Symptoms of Blood Sugar Swings  
 Recognizing the symptoms of blood sugar swings is the first step toward better control. These symptoms often appear suddenly and may feel confusing if you’re not expecting them.
 
-![symptons of blood sugar swings]({{ '/assets/media/symptons-of-blood-sugar-swings.webp' | relative_url }})
+![symptons of blood sugar swings]({{ '/assets/img/symptons-of-blood-sugar-swings.webp' | relative_url }})
 
 Common symptoms include shakiness, sweating, and sudden hunger. These signs often show up when blood sugar drops too low.  
 High blood sugar can cause fatigue, blurry vision, and trouble focusing. You may also feel thirsty or need to urinate more often.  
@@ -31,7 +31,7 @@ Understanding the causes of blood sugar swings can help you prevent them. Many e
 
 Small changes in routine can make a big difference in how your body responds.
 
-![causes of blood sugar swings]({{ '/assets/media/causes-of-blood-sugar-swings.webp' | relative_url }})
+![causes of blood sugar swings]({{ '/assets/img/causes-of-blood-sugar-swings.webp' | relative_url }})
 
 Link:  
 For breakfast ideas that help stabilize glucose, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
@@ -46,7 +46,7 @@ Managing blood sugar swings doesn’t have to be complicated. A few simple habit
 
 These steps are gentle, practical, and easy to fit into daily life.
 
-![how to manage blood sugar swings]({{ '/assets/media/managing-blood-sugar-swings.webp' | relative_url }})
+![how to manage blood sugar swings]({{ '/assets/img/managing-blood-sugar-swings.webp' | relative_url }})
 
 Link:  
 If inflammation affects your joints or blood sugar, explore [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints/).
@@ -57,6 +57,6 @@ Emotional stress can also affect glucose balance. Learn more in [How to Stop Wor
 Blood sugar swings can affect how you feel from hour to hour. By understanding the symptoms and causes, you can take small steps toward steadier energy and better health. Balanced meals, movement, and stress management all help support smoother blood sugar patterns.
 
 Link:  
-For more guidance on glucose balance and metabolic health, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on glucose balance and metabolic-health, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

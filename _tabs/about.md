@@ -1,8 +1,8 @@
 ---
-layout: tabs
+layout: page
 title: About
-icon: fas fa-info-circle
-order: 1
+icon: fas fa-user
+order: 6
 ---
 
-Welcome to your clean Chirpy site.
+Write your about text here. This is the content that appears below the title.

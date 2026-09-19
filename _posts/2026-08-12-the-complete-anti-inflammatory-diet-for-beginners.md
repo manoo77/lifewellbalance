@@ -3,8 +3,8 @@ layout: post
 title: "The Complete Anti‑Inflammatory Diet for Beginners"
 date: 2026-08-12 18:11:08 +0000
 categories: [physical-wellness]
-tags: [anti-inflammatory-diet, joint-pain-relief, natural-remedies, arthritis-nutrition, omega-3-rich-foods, Mediterranean-diet, curcumin-benefits, reducing-inflammation, healthy-eating, anti-inflammatory-foods]
-image: /assets/media/ts-anti-inflammatory-diet.webp
+tags: [anti-inflammatory-diet, joint-pain-relief, natural-remedies, arthritis-nutrition, omega-3-rich-foods, mediterranean-diet, curcumin-benefits, reducing-inflammation, healthy-eating, anti-inflammatory-foods]
+image: /assets/img/ts-anti-inflammatory-diet.webp
 ---
 
 The Complete Anti‑Inflammatory Diet for Beginners  
@@ -13,7 +13,7 @@ Starting an anti‑inflammatory diet can feel overwhelming. The good news is tha
 Link:  
 If you’re exploring ways to reduce inflammation, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
 
-![omega 3 rich foods]({{ '/assets/media/omega-3-rich-foods.webp' | relative_url }})
+![omega 3 rich foods]({{ '/assets/img/omega-3-rich-foods.webp' | relative_url }})
 
 🌿 Natural Anti‑Inflammatory Foods for Joint Pain  
 Adding natural anti‑inflammatory foods for joint pain to your meals can help your body feel lighter and more flexible. These foods work by lowering stress inside your cells and supporting healthy movement.
@@ -36,7 +36,7 @@ Many people struggle with knee pain. The question is common: how to get rid of i
 
 These foods are simple to add to your daily routine. A spoon of olive oil, a pinch of turmeric, or a cup of green tea can help your knees feel better over time.
 
-![anti inflammatory foods ]({{ '/assets/media/anti-inflammatory-foods-2.webp' | relative_url }})
+![anti inflammatory foods ]({{ '/assets/img/anti-inflammatory-foods-2.webp' | relative_url }})
 
 Link:  
 If your knee feels swollen or stiff, see [How to Remove Fluid From Knee Naturally](/physical-wellness/2026-08-20-how-to-remove-fluid-from-knee-naturally/).
@@ -50,7 +50,7 @@ The complete anti‑inflammatory diet for beginners is not strict or complicated
 
 This diet is flexible. You can adjust it to your taste, your culture, and your lifestyle.
 
-![anti inflammatory diet]({{ '/assets/media/anti-inflammatory-diet.webp' | relative_url }})
+![anti inflammatory diet]({{ '/assets/img/anti-inflammatory-diet.webp' | relative_url }})
 
 Link:  
 For breakfast ideas that support inflammation and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).

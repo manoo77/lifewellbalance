@@ -3,8 +3,8 @@ layout: post
 title: "Beginner Strength Exercises for Joint Support"
 date: 2026-09-10 10:38:19 +0000
 categories: [physical-wellness]
-tags: [joint health, strength training, mobility, knee pain, exercise, physical wellness]
-image: /assets/media/ts-joint-support-exercises.webp
+tags: [joint-health, strength-training, mobility, knee-pain, exercise, physical-wellness]
+image: /assets/img/ts-joint-support-exercises.webp
 ---
 
 Beginner Strength Exercises for Joint Support 
@@ -29,7 +29,7 @@ Strength training helps:
 Link:  
 If you wake up with knee pain, see [Why Your Knees Hurt in the Morning](/physical-wellness/2026-09-07-why-your-knees-hurt-in-the-morning/) for more insight.
 
-![soft exercise set]({{ '/assets/media/soft-exercises.webp' | relative_url }})
+![soft exercise set]({{ '/assets/img/soft-exercises.webp' | relative_url }})
 
 
 🦵 1. Straight‑Leg Raises (Knee Support)  

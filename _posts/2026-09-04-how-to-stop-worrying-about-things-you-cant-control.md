@@ -4,7 +4,7 @@ title: "How to Stop Worrying About Things You Can't Control"
 date: 2026-09-04 12:18:38 +0000
 categories: [mental-emotional-wellness]
 tags: [stress-management, mental-wellbeing, emotional-health, mindfulness-tips, worry-less, personal-growth, healthy-mindset]
-image: /assets/media/ts-relaxed-2.webp
+image: /assets/img/ts-relaxed-2.webp
 ---
 
 How to Stop Worrying About Things You Can't Control
@@ -14,7 +14,7 @@ This article will show you how to stop worrying about things you can’t control
 
 Worry is normal. But constant worry drains your energy and steals your peace. You deserve better. Let’s walk through clear ways to break the cycle and feel more grounded.
 
-![ground yourself]({{ '/assets/media/ground-yourself-in-the-present-moment.webp' | relative_url }})
+![ground yourself]({{ '/assets/img/ground-yourself-in-the-present-moment.webp' | relative_url }})
 
 Link:  
 If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
@@ -77,7 +77,7 @@ Letting go is not giving up — it’s choosing peace over panic.
 Say to yourself: “I release what I cannot control.”  
 Repeat it until your body softens.
 
-![practice letting go]({{ '/assets/media/practice-letting-go.webp' | relative_url }})
+![practice letting go]({{ '/assets/img/practice-letting-go.webp' | relative_url }})
 
 Link:  
 For nervous system calming tools, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
