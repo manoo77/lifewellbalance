@@ -12,8 +12,7 @@ Feeling anxious or overwhelmed can make everyday life harder. Learning **how to 
 
 ![Diaphragmatic Breathing Technique a Calming Techniques to Reduce Anxiety]({{ '/assets/img/diaphragmatic-breathing-technique.webp' | relative_url }})
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/posts/pillar/).
 
 ---
 
@@ -25,8 +24,7 @@ Many people find comfort in warm, calming drinks. Choosing the **best tea for an
 
 A warm cup of tea can become a soothing ritual that helps your mind slow down and breathe.
 
-Link:  
-For more natural calming habits, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
+For more natural calming habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -42,8 +40,7 @@ Grounding techniques help bring your focus back to the present moment. They work
 
 These tools are simple, quick, and easy to use anywhere.
 
-Link:  
-For a full breathing guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
+For a full breathing guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ---
 
@@ -60,21 +57,19 @@ Many people look for a natural **anxiety panic attack home remedy** they can use
 
 These remedies are simple, safe, and easy to add to your daily routine.
 
-Link:  
-For deeper nervous system support, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+For deeper nervous system support, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
 
 For joint‑friendly nutrition that supports inflammation and overall calm, [explore the Foods That Help Inflamed Joints](/
-2026-06-20-A-foods-that-help-inflamed-joints.md)
+2026-06-20-A-foods-that-help-inflamed-joints)
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
 
 🌼 Conclusion  
 Learning **how to reduce anxiety and panic attacks** starts with small, steady steps. Calming teas, grounding tools, and simple home remedies can help you feel more balanced. With practice, these habits can make anxious moments easier to manage.
 
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](pillar/posts/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

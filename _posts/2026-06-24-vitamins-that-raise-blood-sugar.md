@@ -22,8 +22,7 @@ Many people don’t get enough vitamin D, especially during winter or if they sp
 
 Foods like salmon, eggs, and fortified milk can help raise vitamin D levels. Sunlight also supports natural vitamin D production.
 
-Link:  
-For more guidance on glucose fluctuations, see [Blood Sugar Swings](/physical-wellness/2026-07-18-blood-sugar-swings/).
+For more guidance on glucose fluctuations, see [Blood Sugar Swings](/posts/blood-sugar-swings/).
 
 🍊 Do Any Vitamins Raise Blood Sugar?  
 
@@ -36,8 +35,7 @@ Most vitamins do not directly raise blood sugar. However, certain supplements ma
 
 These effects are usually mild. Still, it’s important to talk with a healthcare professional before taking high‑dose supplements.
 
-Link:  
-If you’re exploring how vitamins affect inflammation and metabolism, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+If you’re exploring how vitamins affect inflammation and metabolism, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 🌿 Vitamin K2 Lowers Blood Sugar: A Helpful Contrast  
 
@@ -50,15 +48,13 @@ Some studies suggest vitamin K2 may help reduce fasting blood sugar over time.
 
 You can find vitamin K2 in foods like natto, hard cheeses, and egg yolks.
 
-Link:  
-If inflammation affects your joints or blood sugar, explore [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints/).
+If inflammation affects your joints or blood sugar, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
 🌼 Conclusion  
 So, are there vitamins that raise blood sugar? Only a few may have mild effects, and usually only at high doses. Low vitamin D can make blood sugar harder to control, while vitamin K2 may help support healthier levels.
 
 Choosing whole foods, balanced meals, and safe supplement doses can help you maintain steady blood sugar. When in doubt, check with a healthcare professional before starting new vitamins.
 
-Link:  
-For more guidance on metabolic balance and inflammation, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on metabolic balance and inflammation, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

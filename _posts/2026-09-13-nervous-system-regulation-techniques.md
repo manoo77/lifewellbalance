@@ -18,8 +18,7 @@ When stress builds up, your body can get stuck in the sympathetic mode. Regulati
 
 These techniques are simple, fast, and can be used anytime you feel overwhelmed.
 
-Link:  
-If you’re working on improving your emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re working on improving your emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 ---
 
@@ -35,8 +34,7 @@ Try this pattern:
 
 Longer exhales tell your body it’s safe.
 
-Link:  
-If you want a full guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
+If you want a full guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ---
 
@@ -134,8 +132,7 @@ Try asking:
 - “Is this thought helpful?”  
 - “What’s a calmer version of this thought?”
 
-Link:  
-For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/mental-emotional-wellness/2026-09-04-how-to-stop-worrying-about-things-you-cant-control/).
+For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 ---
 
@@ -146,9 +143,8 @@ Certain nutrients help stabilize the nervous system:
 - Magnesium (calms muscles and nerves)  
 - Omega‑3s (support mood regulation)  
 - B vitamins (support stress response)
-
-Link:  
-If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/mental-emotional-wellness/2026-07-14-anxiety-and-low-magnesium/).
+ 
+If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/posts/anxiety-and-low-magnesium/).
 
 ---
 
@@ -162,23 +158,21 @@ This can be:
 - a friend  
 - a therapist  
 - a support group  
-
-Link:  
-If anxiety affects your relationships, see [How to Deal With Someone With Anxiety in a Relationship](/mental-emotional-wellness/2026-09-20-how-to-deal-with-someone-with-anxiety-in-a-relationship/).
+ 
+If anxiety affects your relationships, see [How to Deal With Someone With Anxiety in a Relationship](/posts/how-to-deal-with-someone-with-anxiety-in-a-relationship/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/physical-wellness/2026-07-26-best-exercise-for-stiff-knees.md) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
 
 
 
 🌼 Final Thoughts
 
 Nervous system regulation isn’t about eliminating stress — it’s about giving your body tools to return to calm more easily. With practice, these techniques help you feel more grounded, more resilient, and more in control of your emotional state.
-
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+ 
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

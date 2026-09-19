@@ -11,8 +11,7 @@ Beginner Strength Exercises for Joint Support
 
 Strengthening the muscles around your joints is one of the most effective ways to reduce pain, improve mobility, and prevent long‑term wear and tear. These beginner strength exercises for joint support are simple, safe, and designed for people who want to build stability without heavy weights or complicated routines.
 
-Link:  
-If you’re exploring joint health, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
+If you’re exploring joint health, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 🦵 Why Strength Exercises Help Your Joints  
 
@@ -26,8 +25,7 @@ Strength training helps:
 - stabilize movement  
 - reduce morning stiffness  
 
-Link:  
-If you wake up with knee pain, see [Why Your Knees Hurt in the Morning](/physical-wellness/2026-09-07-why-your-knees-hurt-in-the-morning/) for more insight.
+If you wake up with knee pain, see [Why Your Knees Hurt in the Morning](/posts/why-your-knees-hurt-in-the-morning/) for more insight.
 
 ![soft exercise set]({{ '/assets/img/soft-exercises.webp' | relative_url }})
 
@@ -100,9 +98,8 @@ Mini squats are beginner‑friendly and help strengthen multiple joint‑support
 
 **Reps:** 10–12  
 **Benefits:** improves mobility and joint control
-
-Link:  
-If you need more knee‑friendly movements, explore [Best Exercise for Stiff Knees](/physical-wellness/2026-07-26-best-exercise-for-stiff-knees/).
+ 
+If you need more knee‑friendly movements, explore [Best Exercise for Stiff Knees](/posts/best-exercise-for-stiff-knees/).
 
 🦵 6. Step‑Ups (Knee + Hip Support)  
 
@@ -150,15 +147,13 @@ Clamshells strengthen the gluteus medius — a key muscle for knee alignment.
 - Keep your core engaged.  
 - Use a chair or wall for balance if needed.  
 - Start small — consistency matters more than intensity.
-
-Link:  
-If inflammation affects your joints, explore [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints/) for supportive nutrition.
+ 
+If inflammation affects your joints, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/) for supportive nutrition.
 
 🌼 Final Thoughts  
 
 Strength training doesn’t have to be intense to be effective. These beginner exercises help stabilize your joints, reduce pain, and improve mobility — all with simple movements you can do at home.
-
-Link:  
-For more guidance on joint health, inflammation, and mobility, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+/physical-well
+For more guidance on joint health, inflammation, and mobility, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

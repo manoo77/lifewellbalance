@@ -10,8 +10,7 @@ image: /assets/img/ts-anti-inflammatory-diet.webp
 The Complete Anti‑Inflammatory Diet for Beginners  
 Starting an anti‑inflammatory diet can feel overwhelming. The good news is that small changes make a big difference. The complete anti‑inflammatory diet for beginners focuses on simple foods that calm swelling and support long‑term joint health. These foods are easy to find, easy to cook, and easy to enjoy every day.
 
-Link:  
-If you’re exploring ways to reduce inflammation, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
+If you’re exploring ways to reduce inflammation, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 ![omega 3 rich foods]({{ '/assets/img/omega-3-rich-foods.webp' | relative_url }})
 
@@ -24,8 +23,7 @@ Adding natural anti‑inflammatory foods for joint pain to your meals can help y
 
 These foods fit easily into salads, smoothies, or simple home‑cooked meals.
 
-Link:  
-For more joint‑friendly nutrition, see [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints/).
+For more joint‑friendly nutrition, see [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
 🦵 How to Get Rid of Inflammation in the Knee Naturally  
 Many people struggle with knee pain. The question is common: how to get rid of inflammation in the knee naturally. The answer often starts with food.
@@ -38,8 +36,7 @@ These foods are simple to add to your daily routine. A spoon of olive oil, a pin
 
 ![anti inflammatory foods ]({{ '/assets/img/anti-inflammatory-foods-2.webp' | relative_url }})
 
-Link:  
-If your knee feels swollen or stiff, see [How to Remove Fluid From Knee Naturally](/physical-wellness/2026-08-20-how-to-remove-fluid-from-knee-naturally/).
+If your knee feels swollen or stiff, see [How to Remove Fluid From Knee Naturally](/posts/how-to-remove-fluid-from-knee-naturally/).
 
 🥗 Building the Complete Anti‑Inflammatory Diet for Beginners  
 The complete anti‑inflammatory diet for beginners is not strict or complicated. It’s a gentle shift toward whole foods and away from processed meals.
@@ -52,15 +49,13 @@ This diet is flexible. You can adjust it to your taste, your culture, and your l
 
 ![anti inflammatory diet]({{ '/assets/img/anti-inflammatory-diet.webp' | relative_url }})
 
-Link:  
-For breakfast ideas that support inflammation and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+For breakfast ideas that support inflammation and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques.md)
+Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques)
 
 🌼 Conclusion  
 The complete anti‑inflammatory diet for beginners is a simple way to support your health. These foods help reduce swelling, ease joint pain, and improve daily comfort. Pair them with gentle movement, rest, and hydration for even better results.
 
-Link:  
-For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

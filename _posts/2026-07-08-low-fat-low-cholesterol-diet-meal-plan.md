@@ -10,8 +10,7 @@ image: /assets/img/ts-low-cholestrol-food.webp
 Low Fat Low Cholesterol Diet Meal Plan  
 Creating a low fat low cholesterol diet meal plan can feel overwhelming at first, but it doesn’t have to be. Small, steady changes in your daily meals can support heart health, improve energy, and help you feel more in control of your wellness. This guide keeps things simple, clear, and practical so you can start right away.
 
-Link:  
-If you’re exploring heart‑healthy nutrition, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
+If you’re exploring heart‑healthy nutrition, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 ## A Simple Plan to Lower Cholesterol  
 A strong plan to lower cholesterol focuses on foods that support your heart while keeping saturated fat low. You don’t need complicated recipes or expensive ingredients. Everyday foods can make a big difference.
@@ -27,8 +26,7 @@ Start with these basics:
 Fiber helps remove cholesterol from the body, while lean proteins keep meals satisfying without adding extra fat.  
 These simple swaps can support healthier cholesterol levels over time.
 
-Link:  
-For anti‑inflammatory breakfast ideas that support heart and metabolic-health, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+For anti‑inflammatory breakfast ideas that support heart and metabolic-health, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 ## 🍽️ Daily Low Cholesterol Diet Plan
 
@@ -85,13 +83,11 @@ Once you understand the basics, you can build your own plan with ease. Focus on 
 
 These habits help your heart stay strong and support long‑term health.
 
-Link:  
-If you’re exploring blood sugar balance alongside heart health, see [Hidden Causes of Blood Sugar Spikes](/physical-wellness/2026-09-09-hidden-causes-of-blood-sugar-spikes/).
+If you’re exploring blood sugar balance alongside heart health, see [Hidden Causes of Blood Sugar Spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
 
 ## 🌼 Conclusion  
 A low fat low cholesterol diet meal plan doesn’t need to be complicated. With simple meals, lean proteins, and plenty of fiber, you can support your heart every day. Whether you follow the sample plan or create your own, small steps can lead to big improvements in your overall wellness.
 
-Link:  
-For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for personalized guidance.

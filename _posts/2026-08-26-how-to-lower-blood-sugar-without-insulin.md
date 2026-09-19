@@ -13,8 +13,7 @@ Managing blood sugar can feel overwhelming, especially if you want to avoid medi
 
 Blood sugar rises when your body struggles to use glucose for energy. When this happens often, you may feel tired, thirsty, or foggy. The goal is to help your body respond better to glucose so levels stay steady throughout the day.
 
-Link:  
-If you’re exploring blood sugar balance, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
+If you’re exploring blood sugar balance, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 ## How to Control High Blood Sugar Naturally
 
@@ -28,8 +27,7 @@ Movement is another powerful tool. You don’t need long workouts. Even a 10‑m
 
 Stress also affects blood sugar. When stress hormones rise, glucose rises too. Try deep breathing, stretching, or short breaks during the day. These small moments help your body stay calm and balanced.
 
-Link:  
-If stress affects your blood sugar, see [Hidden Causes of Blood Sugar Spikes](/physical-wellness/2026-09-09-hidden-causes-of-blood-sugar-spikes/).
+If stress affects your blood sugar, see [Hidden Causes of Blood Sugar Spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
 
 ## How Can You Lower Your Blood Sugar Without Medication
 
@@ -47,8 +45,7 @@ Portion control is helpful too. You don’t need to avoid carbs completely. Inst
 
 Finally, consider adding foods known to support blood sugar balance. Cinnamon, chia seeds, leafy greens, and berries are simple additions that fit into most meals. These foods help your body manage glucose more efficiently.
 
-Link:  
-For anti‑inflammatory breakfast ideas that support blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+For anti‑inflammatory breakfast ideas that support blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 ## Putting It All Together
 
@@ -58,7 +55,6 @@ Lowering blood sugar naturally is about consistency, not perfection. Small steps
 
 If your blood sugar stays high or symptoms worsen, speak with a healthcare professional. Natural methods are helpful, but medical guidance ensures you stay safe and supported.
 
-Link:  
-For more guidance on glucose balance and inflammation, explore [Blood Sugar Swings](/physical-wellness/2026-07-18-blood-sugar-swings/).
+For more guidance on glucose balance and inflammation, explore [Blood Sugar Swings](/posts/blood-sugar-swings/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

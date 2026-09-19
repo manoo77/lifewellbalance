@@ -109,5 +109,5 @@ We reserve the right to update this disclaimer at any time. Changes will be post
 If you have questions about this disclaimer, please contact us at:
 
 **Life Well Balanced**  
-Email: [alex@lifewellbalance.com](mailto:alex@lifewellbalance.com)  
+Email: <a href="mailto:{{ site.email | encode_email }}">{{ site.email | html_encode_email }}</a>  
 Website: [https://lifewellbalance.com/](https://lifewellbalance.com/)

@@ -129,7 +129,8 @@ Depending on your location, you may have the following rights regarding your per
 - **Deletion:** You may request that we delete your personal information (subject to legal exceptions).
 - **Opt-Out:** You may opt out of receiving promotional emails by clicking the "unsubscribe" link in any email.
 
-To exercise any of these rights, please contact us at: **[alex@lifewellbalance.com](mailto:alex@lifewellbalance.com)**
+To exercise any of these rights, please contact us at: <a href="mailto:{{ site.email | encode_email }}">{{ site.email | html_encode_email }}</a>
+
 
 ---
 
@@ -144,5 +145,5 @@ We reserve the right to update this Privacy Policy at any time. Changes will be 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
 **Life Well Balanced**  
-Email: [alex@lifewellbalance.com](mailto:alex@lifewellbalance.com)  
+Email:<a href="mailto:{{ site.email | encode_email }}">{{ site.email | html_encode_email }}</a>
 Website: [https://lifewellbalance.com/](https://lifewellbalance.com/)

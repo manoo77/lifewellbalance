@@ -16,8 +16,7 @@ Worry is normal. But constant worry drains your energy and steals your peace. Yo
 
 ![ground yourself]({{ '/assets/img/ground-yourself-in-the-present-moment.webp' | relative_url }})
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 ---
 
@@ -49,8 +48,7 @@ Small actions help your mind reset.
 Give yourself five minutes to think about the fear. When the time is up, move on.  
 This teaches your brain to stop spiraling.
 
-Link:  
-For deeper guidance on breaking mental loops, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
+For deeper guidance on breaking mental loops, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -79,8 +77,7 @@ Repeat it until your body softens.
 
 ![practice letting go]({{ '/assets/img/practice-letting-go.webp' | relative_url }})
 
-Link:  
-For nervous system calming tools, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+For nervous system calming tools, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
 
@@ -90,13 +87,12 @@ Learning how to stop worrying about things you can’t control is a skill. It ta
 Over time, your mind becomes quieter. You react with more ease. You trust yourself more.
 
 You deserve a life with less fear and more calm. Start with one small shift today. Your future self will thank you.
-
-Link:  
-If anxiety is affecting your relationships, explore [How to Deal With Someone With Anxiety in a Relationship](/mental-emotional-wellness/2026-09-20-how-to-deal-with-someone-with-anxiety-in-a-relationship/).
+ 
+If anxiety is affecting your relationships, explore [How to Deal With Someone With Anxiety in a Relationship](/posts/how-to-deal-with-someone-with-anxiety-in-a-relationship/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
 
 ## Summary
@@ -104,7 +100,6 @@ For joint‑friendly nutrition that supports inflammation and overall calm, expl
 Worry is natural, but it doesn’t have to run your life. By naming your fears, grounding yourself, and focusing on what you *can* control, you create space for peace.  
 Let go of what isn’t yours to carry. Choose calm, one moment at a time.
 
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

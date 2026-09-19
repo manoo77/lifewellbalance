@@ -13,8 +13,7 @@ Feeling low, stressed, or mentally drained can happen to anyone. Two key brain c
 
 The good news is that you can support these chemicals through simple daily habits. This guide shows you natural ways to increase dopamine and serotonin without complicated routines or medical jargon.
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 ---
 
@@ -27,8 +26,7 @@ Try adding small bursts of movement throughout your day. A 10‑minute walk afte
 
 ![boost your mood]({{ '/assets/img/boost-your-mood.webp' | relative_url }})
 
-Link:  
-For more movement ideas that support emotional balance, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
+For more movement ideas that support emotional balance, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -42,7 +40,7 @@ Food has a powerful effect on your brain. Certain nutrients help your body creat
 You don’t need a strict diet — just aim for simple, colorful meals with a mix of protein, healthy fats, and whole foods.
 
 Link:  
-For anti‑inflammatory breakfast ideas that support mood and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/2026-09-03-anti-inflammatory-breakfast-ideas/).
+For anti‑inflammatory breakfast ideas that support mood and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 ---
 
@@ -55,8 +53,7 @@ Try keeping a simple sleep routine: consistent bedtimes, limited screens before 
 
 ![calm practice]({{ '/assets/img/calm-practice.webp' | relative_url }})
 
-Link:  
-If sleep struggles are tied to anxiety, explore [How to Reduce Anxiety and Panic Attacks Naturally](/mental-emotional-wellness/2026-06-23-how-to-reduce-anxiety-and-panic-attacks-naturally/).
+If sleep struggles are tied to anxiety, explore [How to Reduce Anxiety and Panic Attacks Naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/).
 
 ---
 
@@ -66,15 +63,14 @@ Stress can lower dopamine and serotonin. Calm practices help your brain recover.
 Deep breathing, meditation, or quiet time reduce stress hormones. When stress drops, your brain can make more dopamine and serotonin.
 
 You don’t need long sessions — even two minutes of slow breathing can help. Social connection also boosts these chemicals naturally.
-
-Link:  
-For a full guide to calming your nervous system, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+ 
+For a full guide to calming your nervous system, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/physical-wellness/2026-08-12-the-complete-anti-inflammatory-diet-for-beginners.md)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
 
 
 🌼 Final Thoughts  
@@ -82,7 +78,6 @@ Learning how to increase dopamine and serotonin naturally doesn’t have to be c
 
 Choose one or two habits to start with. Over time, these simple steps can help you feel more balanced, motivated, and emotionally steady.
 
-Link:  
-For more guidance on mood, anxiety, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on mood, anxiety, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

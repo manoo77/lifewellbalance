@@ -28,8 +28,7 @@ Great choices:
 - cherries  
 - raspberries  
 
-Link:  
-Add them to yogurt, smoothies, or oatmeal. For breakfast ideas, explore [Anti‑Inflammatory Breakfast Ideas](/physical-wellness/anti-inflammatory-breakfast-ideas)
+Add them to yogurt, smoothies, or oatmeal. For breakfast ideas, explore [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/)
 
 
 These foods are easy to mix into salads, smoothies, or simple home‑cooked meals.
@@ -39,13 +38,12 @@ These foods are easy to mix into salads, smoothies, or simple home‑cooked meal
 Many everyday foods can help soothe joint discomfort. Olive oil is a great example — it contains a natural compound that works like a mild anti‑inflammatory agent.  
 Spices such as turmeric and ginger also help calm swelling. Turmeric’s active ingredient, curcumin, supports joint comfort over time.
 
-Link:
+
 ![Best foods that help to reduce joint pain]({{ '/assets/img/Best-foods-that-help-to-reduce-joint-pain.webp' | relative_url }})
 
 Nuts and seeds — like walnuts and almonds — add healthy fats that help keep joints flexible.
 
-Link:  
-Magnesium also supports muscle relaxation and nerve function. If you’re exploring magnesium’s role, see [Anxiety and Low Magnesium](/mental-emotional-wellness/anxiety-and-low-magnesium/).
+Magnesium also supports muscle relaxation and nerve function. If you’re exploring magnesium’s role, see [Anxiety and Low Magnesium](/posts/anxiety-and-low-magnesium/).
 
 ### Chia and Flax Seeds (Plant‑Based Omega‑3s)
 
@@ -56,8 +54,7 @@ Add them to:
 - oatmeal  
 - salads  
 
-Link:  
-They also help stabilize blood sugar, which is important because glucose-spikes can worsen inflammation. Learn more in [Hidden Causes of Blood Sugar Spikes](/physical-wellness/hidden-causes-of-blood-sugar-spikes/).
+They also help stabilize blood sugar, which is important because glucose-spikes can worsen inflammation. Learn more in [Hidden Causes of Blood Sugar Spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
 
 These foods are simple to add to your routine. A spoon of olive oil, a pinch of turmeric, or a handful of nuts can make a real difference.
 
@@ -73,15 +70,14 @@ Knee pain is common, especially as we age or stay active. Adding food to reduce 
 
 Small daily choices can support long‑term knee comfort.
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/mental-emotional-wellness/nervous-system-regulation-techniques)
+Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
-If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally.md) can help support emotional balance.
+If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/) can help support emotional balance.
 
 🌿 Conclusion  
 Choosing foods that help inflamed joints is a simple way to support your health. These foods are easy to enjoy and can help reduce discomfort over time. Pair them with gentle movement, rest, and hydration for even better results.
 
-Link:  
-For more guidance on inflammation, mobility, and metabolic balance, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, mobility, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

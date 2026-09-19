@@ -14,8 +14,7 @@ Starting your day with anti‑inflammatory breakfast ideas can make a big differ
 ![anti-inflammatory breakfast]({{ '/assets/img/anti-inflammatory-breakfast.webp
 ' | relative_url }})
 
-Link:  
-If you’re exploring ways to reduce inflammation, you may also find helpful guidance in the [Physical Wellness Pillar](/physical-wellness/pillar/).
+If you’re exploring ways to reduce inflammation, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 🌿 Why Anti‑Inflammatory Breakfasts Matter  
 Inflammation can show up as stiff joints, morning pain, low energy, or blood sugar swings. Breakfast is the perfect time to support your body because:
@@ -49,9 +48,8 @@ Oats help stabilize blood sugar, while turmeric and cinnamon add powerful anti�
 - ½ tsp cinnamon  
 - splash of almond milk  
 - sliced banana or berries  
-
-Link:  
-Turmeric’s active compound, curcumin, supports long‑term joint comfort — similar to what you’ll find in [The Complete Anti‑Inflammatory Diet for Beginners](/physical-wellness/2026-08-12-the-complete-anti-inflammatory-diet-for-beginners/).
+ 
+Turmeric’s active compound, curcumin, supports long‑term joint comfort — similar to what you’ll find in [The Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/).
 
 🥑 3. Avocado Toast With Olive Oil  
 Avocados provide healthy fats that reduce inflammation, and olive oil contains natural compounds that support joint health.
@@ -128,14 +126,12 @@ Some breakfast foods can increase inflammation or cause blood sugar spikes:
 - white bread  
 - processed meats  
 - sweetened yogurt  
-
-Link:  
-If you struggle with blood sugar swings, you may find helpful insights in [Blood Sugar Swings](/physical-wellness/2026-07-18-blood-sugar-swings/).
+ 
+If you struggle with blood sugar swings, you may find helpful insights in [Blood Sugar Swings](/posts/blood-sugar-swings/).
 
 🌼 Final Thoughts  
 Anti‑inflammatory breakfasts don’t need to be complicated. With simple ingredients like berries, oats, olive oil, chia seeds, and leafy greens, you can support joint comfort, reduce inflammation, and enjoy steady energy all morning.
 
-Link:  
-For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

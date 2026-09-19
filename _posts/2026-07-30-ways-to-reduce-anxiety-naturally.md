@@ -12,8 +12,7 @@ Anxiety can show up during busy days, stressful moments, or even quiet evenings.
 
 ![quick ways to calm anxiety]({{ '/assets/img/quick-ways-to-calm-anxiety.webp' | relative_url }})
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 ---
 
@@ -28,8 +27,7 @@ These simple actions help you regain control during sudden waves of anxiety.
 
 ![fast ways to calm anxiety]({{ '/assets/img/fast-ways-to-calm-anxiety.webp' | relative_url }})
 
-Link:  
-For a full breathing guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
+For a full breathing guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ---
 
@@ -43,8 +41,7 @@ Daily habits play a big role in long‑term calm. These easy ways to reduce anxi
 
 These habits are gentle, practical, and easy to maintain.
 
-Link:  
-If blood sugar swings trigger your anxiety, explore [Blood Sugar Swings](/physical-wellness/2026-07-18-blood-sugar-swings/).
+If blood sugar swings trigger your anxiety, explore [Blood Sugar Swings](/posts/blood-sugar-swings/).
 
 ---
 
@@ -60,19 +57,17 @@ These practices support both your mind and body, helping you feel calmer overall
 
 ![natural mind body anxiety relief]({{ '/assets/img/natural-mind-body-anxiety-relief.webp' | relative_url }})
 
-Link:  
-For nervous system calming tools, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+For nervous system calming tools, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/physical-wellness/2026-07-26-best-exercise-for-stiff-knees.md) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
 
 🌺 Conclusion  
 Finding ways to reduce anxiety naturally starts with small, steady steps. Quick calming tools help during stressful moments. Easy daily habits support long‑term balance. Mind‑body practices create deeper calm. With gentle consistency, these natural methods can help you feel more grounded and at ease.
 
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

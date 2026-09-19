@@ -45,8 +45,7 @@ Straight‑leg raises strengthen the quadriceps — the main stabilizing muscle 
 2-leg-raises-exercise.webp  
 2-leg-raises-exercise-2.webp
 
-Link:  
-This exercise is also featured in [Beginner Strength Exercises for Joint Support](/physical-wellness/2026-09-10-beginner-strength-exercises-for-joint-support/).
+This exercise is also featured in [Beginner Strength Exercises for Joint Support](/posts/beginner-strength-exercises-for-joint-support/).
 
 🧍 2. Mini Squats  
 Mini squats build strength without deep bending.
@@ -92,8 +91,7 @@ Tight hamstrings pull on the knee joint and increase stiffness.
 5-hamstring-stretch.webp  
 5-seated-hamstring-stretch.webp
 
-Link:  
-This stretch is also part of [Why Your Knees Hurt in the Morning](/physical-wellness/2026-09-07-why-your-knees-hurt-in-the-morning/).
+This stretch is also part of [Why Your Knees Hurt in the Morning](/posts/why-your-knees-hurt-in-the-morning/).
 
 🧘 5. Quad Stretch  
 Loosening the front of the thigh reduces pressure on the knee.
@@ -149,17 +147,15 @@ This exercise supports knee alignment and stability.
 - Strengthen supporting muscles.  
 - Add anti‑inflammatory foods to your diet.
 
-Link:  
-For joint‑friendly nutrition, explore [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints/).
+For joint‑friendly nutrition, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques.md)
+Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques)
 
-If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally.md) can help support emotional balance.
+If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/posts/ways-to-reduce-anxiety-naturally) can help support emotional balance.
 
 🌼 Final Thoughts  
 The best exercise for stiff knees is simple: gentle, consistent movement. Walking, stretching, and beginner‑friendly strength exercises help reduce stiffness, improve mobility, and support long‑term joint comfort.
 
-Link:  
-For more guidance on inflammation, mobility, and metabolic-health, explore the [Physical Wellness Pillar](/physical-wellness/pillar/).
+For more guidance on inflammation, mobility, and metabolic-health, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

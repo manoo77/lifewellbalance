@@ -12,8 +12,7 @@ Many people feel anxious without knowing why. One surprising cause can be **anxi
 
 ![Anxiety and Low Magnesium]({{ '/assets/img/magnesium.webp' | relative_url }})
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/posts/pillar/).
 
 ---
 
@@ -32,8 +31,7 @@ These symptoms happen because magnesium helps regulate nerve signals and muscle 
 
 ![signs of Low Magnesium]({{ '/assets/img/7-signs-sympotms-of-magnesium-deficiency.webp' | relative_url }})
 
-Link:  
-For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
+For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -51,8 +49,7 @@ This doesn’t mean magnesium *must* be taken at night, but many people find it 
 
 ![why take magnesium at night]({{ '/assets/img/take-magnesium-at-night.webp' | relative_url }})
 
-Link:  
-If sleep struggles are tied to anxiety, explore [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
+If sleep struggles are tied to anxiety, explore [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ---
 
@@ -74,16 +71,15 @@ These steps support magnesium balance and help calm the nervous system.
 
 ![anxiety and low magnesium effects]({{ '/assets/img/magnesium-stress-anxiety-cycle.webp' | relative_url }})
 
-Link:  
-For deeper guidance on calming your nervous system, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+For deeper guidance on calming your nervous system, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/physical-wellness/2026-07-26-best-exercise-for-stiff-knees.md) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/physical-wellness/2026-08-12-the-complete-anti-inflammatory-diet-for-beginners.md)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
 
 
 
@@ -92,7 +88,6 @@ The link between anxiety and low magnesium is stronger than many people realize.
 
 Small steps can make a big difference. With the right habits, your body can feel more balanced, and your mind can feel more at ease.
 
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for personalized guidance.

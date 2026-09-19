@@ -13,13 +13,11 @@ Supporting a partner who lives with anxiety can feel confusing at times. You may
 
 Anxiety shows up in many ways. Some people worry about the future. Others fear conflict or feel overwhelmed by daily stress. When you understand these patterns, you can support your partner without losing your own balance.
 
-Link:  
-Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 ![handle anxiety in relationships]({{ '/assets/img/handle-anxiety-in-relationships.webp' | relative_url }})
-
-Link:  
-If you want a full guide, see [Deep Breathing for Anxiety Relief](/mental-emotional-wellness/2026-09-15-deep-breathing-for-anxiety-relief/).
+  
+If you want a full guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ## Understanding How to Handle Anxiety in Relationships
 
@@ -32,9 +30,8 @@ It also helps to learn your partner’s triggers. A trigger is anything that spa
 Another key step is to avoid taking their anxiety personally. Their worry is not a sign that you did something wrong. It is a sign that they need reassurance, structure, or space to calm down.
 
 ![deal with partner with anxiety]({{ '/assets/img/deal-with-partner-with-anxiety.webp' | relative_url }})
-
-Link:  
-For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/mental-emotional-wellness/2026-09-04-how-to-stop-worrying-about-things-you-cant-control/).
+ 
+For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 ## Practical Ways on How to Deal With Partner With Anxiety
 
@@ -47,9 +44,8 @@ When your partner feels anxious, small supportive actions can make a big differe
 **Stay patient during anxious moments.** Your calm presence helps them regulate.  
 **Encourage healthy habits.** Sleep, movement, and breathing exercises reduce anxiety.  
 **Protect your own emotional health.** Boundaries keep the relationship balanced.
-
-Link:  
-If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/mental-emotional-wellness/2026-07-14-anxiety-and-low-magnesium/).
+ 
+If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/posts/anxiety-and-low-magnesium/).
 
 ![building a stronger relationship together]({{ '/assets/img/building-a-stronger-relationship-together.webp' | relative_url }})
 
@@ -65,13 +61,12 @@ These steps help both partners feel more connected and confident.
 
 Remember that anxiety is not a flaw — it is a human experience. When you respond with patience and kindness, you help your partner feel valued and supported.
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
 ## Conclusion
 
 Supporting a partner with anxiety takes empathy, clarity, and steady communication. By learning **how to handle anxiety in relationships** and practicing simple supportive habits, you can create a relationship that feels safe and strong for both of you.
-
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+ 
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

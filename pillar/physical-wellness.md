@@ -10,8 +10,11 @@ Here you’ll find articles focused on movement, sleep, nutrition, and daily hab
 
 ## Articles in Physical Wellness
 
+
+<ul>
 {% for post in site.posts %}
   {% if post.categories contains "physical-wellness" %}
-  - [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
+</ul>

@@ -2,6 +2,9 @@ title: Life Well Balance
 description: "Your wellness blog"
 timezone: Europe/Stockholm
 lang: en
+avatar: /assets/img/banner/life-well-balance.svg
+email: alex@lifewellbalance.com
+
 
 collections:
   tabs:
@@ -16,6 +19,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-email-protect
 
 sidebar:
   nav: true
@@ -63,7 +67,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
-  - categories
+ 
 
 webmanifest: /assets/img/favicons/manifest.json
 favicon:

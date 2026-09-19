@@ -14,8 +14,7 @@ Deep breathing for anxiety relief is a gentle, natural way to slow your heart ra
 
 ![deep breathing]({{ '/assets/img/deep-breathing.webp' | relative_url }})
 
-Link:  
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 This article explains how deep breathing works, why it helps, and how you can use it every day to feel more grounded and in control.
 
@@ -27,8 +26,7 @@ Many people notice that their thoughts become clearer after just a few slow brea
 
 You don’t need special tools or training. You only need a few minutes and a quiet moment.
 
-Link:  
-For more techniques that calm the nervous system, see [Nervous System Regulation Techniques](/mental-emotional-wellness/2026-09-13-nervous-system-regulation-techniques/).
+For more techniques that calm the nervous system, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ## Breathing Exercises to Relieve Anxiety
 
@@ -62,8 +60,7 @@ This method is great when your mind feels scattered.
 
 Repeat for one to two minutes.
 
-Link:  
-If anxiety feels overwhelming, explore [How to Reduce Anxiety and Panic Attacks Naturally](/mental-emotional-wellness/2026-06-23-how-to-reduce-anxiety-and-panic-attacks-naturally/).
+If anxiety feels overwhelming, explore [How to Reduce Anxiety and Panic Attacks Naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/).
 
 ## Deep Breathing to Relieve Anxiety in Daily Life
 
@@ -84,13 +81,12 @@ A few minutes of slow breathing can make it easier to fall asleep.
 
 ### Try breathing breaks  
 Set reminders for two or three breathing breaks during the day.
+  
+For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
-Link:  
-For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/mental-emotional-wellness/2026-07-30-ways-to-reduce-anxiety-naturally/).
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/physical-wellness/2026-06-20-foods-that-help-inflamed-joints.md)
-
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/physical-wellness/2026-08-12-the-complete-anti-inflammatory-diet-for-beginners.md)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
 
 ## Final Thoughts
 
@@ -98,7 +94,6 @@ Deep breathing for anxiety relief is a simple, powerful tool you can use anytime
 
 Take a few slow breaths now. Notice how your body feels. This small step can be the start of a calmer, more centered you.
 
-Link:  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/mental-emotional-wellness/pillar/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
