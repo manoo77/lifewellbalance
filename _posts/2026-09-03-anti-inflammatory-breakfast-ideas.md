@@ -76,7 +76,7 @@ Eggs offer protein for steady energy, while spinach and tomatoes add antioxidant
 
 This breakfast is filling, nutrient‑dense, and supports joint mobility.
 
-![apple walnut anti‑inflammatory parfait]({{ '/assets/img/apple-walnut-anti‑inflammatory-parfait .webp' | relative_url }})
+![apple walnut anti‑inflammatory parfait]({{ '/assets/img/apple-walnut-anti‑inflammatory-parfait.webp' | relative_url }})
 
  
 
