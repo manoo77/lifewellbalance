@@ -13,3 +13,69 @@
 ';
 
 /* append your custom style below */
+
+/* FORKED from chirpy 7.6.0: search input border override */
+#search-input {
+  border: 1px solid #343C5F;
+}
+
+[data-bs-theme='dark'] #search-input {
+  border: 1px solid #9D8E9F;
+}
+
+/* Home page intro */
+.home-intro {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+[data-bs-theme='dark'] .home-intro {
+  border-bottom-color: rgba(255, 255, 255, 0.12);
+}
+
+
+
+/* Homepage preview images — override Chirpy's default wrapper */
+main .preview-img,
+main .preview-img.shimmer {
+  display: block !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: auto !important;         /* was: 40/21 */
+  min-height: 0 !important;
+  max-height: none !important;
+  margin: 1.5rem 0 !important;
+  padding: 0 !important;
+  border-radius: 0.5rem !important;
+  background: none !important;
+  overflow: visible !important;           /* was: hidden — stop clipping */
+}
+
+main .preview-img:not(.no-bg) {
+  background: none !important;
+}
+
+main p:has(.preview-img) {
+  margin-bottom: 0 !important;
+}
+
+main .preview-img::before,
+main .preview-img::after,
+main .preview-img.shimmer::before,
+main .preview-img.shimmer::after {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  animation: none !important;
+}
+
+main .preview-img img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;                /* was: 100% */
+  max-height: none !important;
+  object-fit: contain !important;         /* was: cover */
+  border-radius: 0.5rem !important;
+}

@@ -26,7 +26,7 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
-      <!-- manual: articles link (page, not a tab) -->
+            <!-- manual: articles link (page, not a tab) -->
       <li class="nav-item{% if page.url == '/articles/' %}{{ " active" }}{% endif %}">
         <a href="{{ '/articles/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-list"></i>

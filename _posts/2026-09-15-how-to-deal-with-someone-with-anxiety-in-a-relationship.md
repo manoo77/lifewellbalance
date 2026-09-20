@@ -13,7 +13,7 @@ Supporting a partner who lives with anxiety can feel confusing at times. You may
 
 Anxiety shows up in many ways. Some people worry about the future. Others fear conflict or feel overwhelmed by daily stress. When you understand these patterns, you can support your partner without losing your own balance.
 
-Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ![handle anxiety in relationships]({{ '/assets/img/handle-anxiety-in-relationships.webp' | relative_url }})
   
@@ -61,12 +61,12 @@ These steps help both partners feel more connected and confident.
 
 Remember that anxiety is not a flaw — it is a human experience. When you respond with patience and kindness, you help your partner feel valued and supported.
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
 ## Conclusion
 
 Supporting a partner with anxiety takes empathy, clarity, and steady communication. By learning **how to handle anxiety in relationships** and practicing simple supportive habits, you can create a relationship that feels safe and strong for both of you.
  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

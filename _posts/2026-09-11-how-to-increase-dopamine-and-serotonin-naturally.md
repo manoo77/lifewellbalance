@@ -13,7 +13,7 @@ Feeling low, stressed, or mentally drained can happen to anyone. Two key brain c
 
 The good news is that you can support these chemicals through simple daily habits. This guide shows you natural ways to increase dopamine and serotonin without complicated routines or medical jargon.
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -68,9 +68,9 @@ For a full guide to calming your nervous system, see [Nervous System Regulation 
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/)
 
 
 🌼 Final Thoughts  
@@ -78,6 +78,6 @@ Learning how to increase dopamine and serotonin naturally doesn’t have to be c
 
 Choose one or two habits to start with. Over time, these simple steps can help you feel more balanced, motivated, and emotionally steady.
 
-For more guidance on mood, anxiety, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on mood, anxiety, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

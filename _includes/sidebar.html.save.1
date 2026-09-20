@@ -1,4 +1,3 @@
-<!-- FORKED from chirpy 7.6.0: added manual All Articles link -->
 <!-- The Side Bar -->
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
@@ -24,13 +23,6 @@
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
-        </a>
-      </li>
-      <!-- manual: articles link (page, not a tab) -->
-      <li class="nav-item{% if page.url == '/articles/' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/articles/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-list"></i>
-          <span>ALL ARTICLES</span>
         </a>
       </li>
       <!-- the real tabs -->
@@ -153,3 +145,4 @@
   <!-- .sidebar-bottom -->
 </aside>
 <!-- #sidebar -->
+

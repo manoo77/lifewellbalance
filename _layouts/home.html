@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+<div class="home-intro">
+  {% capture home_intro %}{% include home-intro.md %}{% endcapture %}
+  {{ home_intro | markdownify }}
+</div>
+
+<section class="home-recent">
+  <h2>Recent Articles</h2>
+  <ul class="home-recent-list">
+    {% for post in site.posts limit: 5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="home-recent-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="home-see-all">
+    <a href="{{ '/articles/' | relative_url }}">See all articles →</a>
+  </p>
+</section>

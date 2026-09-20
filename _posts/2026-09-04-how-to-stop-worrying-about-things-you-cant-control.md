@@ -16,7 +16,7 @@ Worry is normal. But constant worry drains your energy and steals your peace. Yo
 
 ![ground yourself]({{ '/assets/img/ground-yourself-in-the-present-moment.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -92,7 +92,7 @@ If anxiety is affecting your relationships, explore [How to Deal With Someone Wi
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
 
 ## Summary
@@ -100,6 +100,6 @@ For joint‑friendly nutrition that supports inflammation and overall calm, expl
 Worry is natural, but it doesn’t have to run your life. By naming your fears, grounding yourself, and focusing on what you *can* control, you create space for peace.  
 Let go of what isn’t yours to carry. Choose calm, one moment at a time.
 
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

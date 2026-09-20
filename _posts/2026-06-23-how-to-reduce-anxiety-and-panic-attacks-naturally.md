@@ -12,7 +12,7 @@ Feeling anxious or overwhelmed can make everyday life harder. Learning **how to 
 
 ![Diaphragmatic Breathing Technique a Calming Techniques to Reduce Anxiety]({{ '/assets/img/diaphragmatic-breathing-technique.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/posts/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -64,7 +64,7 @@ For deeper nervous system support, see [Nervous System Regulation Techniques](/p
 For joint‑friendly nutrition that supports inflammation and overall calm, [explore the Foods That Help Inflamed Joints](/
 2026-06-20-A-foods-that-help-inflamed-joints)
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
 
 🌼 Conclusion  

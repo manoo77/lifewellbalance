@@ -51,7 +51,7 @@ This diet is flexible. You can adjust it to your taste, your culture, and your l
 
 For breakfast ideas that support inflammation and blood sugar, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques)
+Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/)
 
 🌼 Conclusion  
 The complete anti‑inflammatory diet for beginners is a simple way to support your health. These foods help reduce swelling, ease joint pain, and improve daily comfort. Pair them with gentle movement, rest, and hydration for even better results.

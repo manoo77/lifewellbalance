@@ -12,7 +12,7 @@ Anxiety can show up during busy days, stressful moments, or even quiet evenings.
 
 ![quick ways to calm anxiety]({{ '/assets/img/quick-ways-to-calm-anxiety.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -61,13 +61,13 @@ For nervous system calming tools, see [Nervous System Regulation Techniques](/po
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
 
 🌺 Conclusion  
 Finding ways to reduce anxiety naturally starts with small, steady steps. Quick calming tools help during stressful moments. Easy daily habits support long‑term balance. Mind‑body practices create deeper calm. With gentle consistency, these natural methods can help you feel more grounded and at ease.
 
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

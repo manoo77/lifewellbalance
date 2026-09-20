@@ -149,9 +149,9 @@ This exercise supports knee alignment and stability.
 
 For joint‑friendly nutrition, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques)
+Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/)
 
-If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/posts/ways-to-reduce-anxiety-naturally) can help support emotional balance.
+If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally] (/posts/ways-to-reduce-anxiety-naturally/) can help support emotional balance.
 
 🌼 Final Thoughts  
 The best exercise for stiff knees is simple: gentle, consistent movement. Walking, stretching, and beginner‑friendly strength exercises help reduce stiffness, improve mobility, and support long‑term joint comfort.

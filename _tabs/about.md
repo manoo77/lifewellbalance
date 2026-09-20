@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Life Well Balanced
 icon: fas fa-user
 order: 6
 ---
@@ -53,7 +53,6 @@ If something here resonates with you, I'd love to hear about it. You can reach m
 
 And if you're ready to start your own journey, here's a good place to begin:
 
-👉 [Read the latest articles →](/posts/)  
 👉 [Start with the index guide →](/)
 
 Thank you for being here. Truly.

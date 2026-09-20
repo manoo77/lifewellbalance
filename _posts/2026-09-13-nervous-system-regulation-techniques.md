@@ -18,7 +18,7 @@ When stress builds up, your body can get stuck in the sympathetic mode. Regulati
 
 These techniques are simple, fast, and can be used anytime you feel overwhelmed.
 
-If you’re working on improving your emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+If you’re working on improving your emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -163,9 +163,9 @@ If anxiety affects your relationships, see [How to Deal With Someone With Anxiet
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
 
 
 
@@ -173,6 +173,6 @@ If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-
 
 Nervous system regulation isn’t about eliminating stress — it’s about giving your body tools to return to calm more easily. With practice, these techniques help you feel more grounded, more resilient, and more in control of your emotional state.
  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.

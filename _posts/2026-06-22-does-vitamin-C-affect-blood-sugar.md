@@ -10,7 +10,7 @@ image: /assets/img/ts-does-vitamin-c-affect-blood-sugar.webp
 Does Vitamin C Affect Blood Sugar?  
 Many people who track their health wonder: does vitamin C affect blood sugar? It’s a smart question, especially if you’re trying to manage energy levels, inflammation, or long‑term metabolic-health. Vitamin C plays many roles in the body, and some of them connect to how your body handles glucose.
 
-If you’re exploring blood sugar balance, you may also find helpful guidance in the [Physical Wellness Pillar](/posts/pillar/).
+If you’re exploring blood sugar balance, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 ![glucose sugar monitor]({{ '/assets/img/glucose-sugar-monitor.webp' | relative_url }})
 
@@ -55,7 +55,7 @@ These foods support overall health, which can make blood sugar easier to manage.
 
 For breakfast ideas that support inflammation and glucose balance, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
-Emotional stress can also affect glucose balance. Learn more in [How to Stop Worrying About Things You Can’t Control] (/posts/how-to-stop-worrying-about-things-you-cant-control)
+Emotional stress can also affect glucose balance. Learn more in [How to Stop Worrying About Things You Can’t Control] (/posts/how-to-stop-worrying-about-things-you-cant-control/)
 
 🌼 Conclusion  
 So, does vitamin C affect blood sugar? Not in a harmful way. In fact, vitamin C may offer gentle support for insulin resistance and type 2 diabetes. Adding vitamin‑rich foods to your meals is a simple step toward better health.

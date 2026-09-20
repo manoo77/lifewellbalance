@@ -12,7 +12,7 @@ Many people feel anxious without knowing why. One surprising cause can be **anxi
 
 ![Anxiety and Low Magnesium]({{ '/assets/img/magnesium.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/posts/pillar/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ---
 
@@ -75,11 +75,11 @@ For deeper guidance on calming your nervous system, see [Nervous System Regulati
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees) can help reduce tension and improve mobility.
+If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/)
 
 
 
@@ -88,6 +88,6 @@ The link between anxiety and low magnesium is stronger than many people realize.
 
 Small steps can make a big difference. With the right habits, your body can feel more balanced, and your mind can feel more at ease.
 
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for personalized guidance.

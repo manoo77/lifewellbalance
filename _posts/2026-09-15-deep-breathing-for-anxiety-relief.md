@@ -14,7 +14,7 @@ Deep breathing for anxiety relief is a gentle, natural way to slow your heart ra
 
 ![deep breathing]({{ '/assets/img/deep-breathing.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 This article explains how deep breathing works, why it helps, and how you can use it every day to feel more grounded and in control.
 
@@ -84,9 +84,9 @@ Set reminders for two or three breathing breaks during the day.
   
 For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/)
 
 ## Final Thoughts
 
@@ -94,6 +94,6 @@ Deep breathing for anxiety relief is a simple, powerful tool you can use anytime
 
 Take a few slow breaths now. Notice how your body feels. This small step can be the start of a calmer, more centered you.
 
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/physical-wellness/).
+For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
