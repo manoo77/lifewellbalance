@@ -76,7 +76,7 @@ Eggs offer protein for steady energy, while spinach and tomatoes add antioxidant
 
 This breakfast is filling, nutrient‑dense, and supports joint mobility.
 
-![apple walnut anti‑inflammatory parfait]({{ '/assets/img/apple-walnut-anti‑inflammatory-parfait.webp' | relative_url }})
+![apple walnut anti‑inflammatory parfait]({{ '/assets/img/apple-walnut-anti-inflammatory-parfait.webp' | relative_url }})
 
  
 
@@ -131,6 +131,14 @@ If you struggle with blood sugar swings, you may find helpful insights in [Blood
 
 🌼 Final Thoughts  
 Anti‑inflammatory breakfasts don’t need to be complicated. With simple ingredients like berries, oats, olive oil, chia seeds, and leafy greens, you can support joint comfort, reduce inflammation, and enjoy steady energy all morning.
+
+[Learn more about low-glycemic breakfast foods](/posts/low-glycemic-breakfast-foods/).
+
+More information on [Foods That Help Cartilage Repair](/posts/foods-that-help-cartilage-repair/).
+
+[How to Improve Joint Mobility Naturally](/posts/how-to-improve-joint-mobility-naturally/).
+
+
 
 For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 

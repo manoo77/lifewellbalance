@@ -1,5 +1,5 @@
 title: Life Well Balance
-description: "Your wellness blog"
+description: "Actionable insights on metabolic health, mobility, and mental clarity."
 timezone: Europe/Stockholm
 lang: en
 avatar: /assets/img/banner/life-well-balance.svg
@@ -68,7 +68,6 @@ exclude:
   - docs
   - tools
   - README.md
-  - LICENSE
   - purgecss.js
   - "*.config.js"
   - "package*.json"

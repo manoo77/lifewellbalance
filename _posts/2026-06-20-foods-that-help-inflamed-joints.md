@@ -77,6 +77,10 @@ If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally](/posts
 🌿 Conclusion  
 Choosing foods that help inflamed joints is a simple way to support your health. These foods are easy to enjoy and can help reduce discomfort over time. Pair them with gentle movement, rest, and hydration for even better results.
 
+[How to Improve Joint Mobility Naturally](/posts/how-to-improve-joint-mobility-naturally/)
+
+[Learn more about low-glycemic breakfast foods](/posts/low-glycemic-breakfast-foods/)
+
 For more guidance on inflammation, mobility, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 
