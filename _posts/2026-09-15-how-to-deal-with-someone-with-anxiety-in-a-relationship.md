@@ -7,7 +7,7 @@ tags: [relationship-support, mental-health, anxiety-in-relationships, communicat
 image: /assets/img/ts-anxiety-in-a-relationship.webp
 ---
 
-How to Deal With Someone With Anxiety in a Relationship
+**How to Deal With Someone With Anxiety in a Relationship**
 
 Supporting a partner who lives with anxiety can feel confusing at times. You may want to help but feel unsure about what to say or do. Learning **how to deal with someone with anxiety in a relationship** starts with understanding their experience and responding with patience, clarity, and care.
 
@@ -37,12 +37,18 @@ For deeper guidance, see [How to Stop Worrying About Things You Can’t Control]
 
 When your partner feels anxious, small supportive actions can make a big difference. Here are simple steps that help keep the relationship steady and warm.
 
-**Listen without fixing.** Many people with anxiety do not want fast solutions — they want to feel heard.  
+**Listen without fixing.** Many people with anxiety do not want fast solutions — they want to feel heard. 
+
 **Offer gentle reassurance.** Calm reminders such as “We’re okay” or “We can handle this together” help your partner feel safe.  
+
 **Set clear expectations.** Predictable communication reduces stress.  
+
 **Give them space when needed.** Space is not rejection — it’s a reset.  
+
 **Stay patient during anxious moments.** Your calm presence helps them regulate.  
+
 **Encourage healthy habits.** Sleep, movement, and breathing exercises reduce anxiety.  
+
 **Protect your own emotional health.** Boundaries keep the relationship balanced.
  
 If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/posts/anxiety-and-low-magnesium/).
@@ -54,14 +60,19 @@ If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/p
 Learning **how to deal with someone with anxiety in a relationship** is not about fixing your partner — it’s about building trust, clarity, and emotional safety.
 
 Talk openly about what helps during anxious moments.  
+
 Create simple routines that support calm communication.  
+
 Celebrate small wins together.  
 
 These steps help both partners feel more connected and confident.
 
 Remember that anxiety is not a flaw — it is a human experience. When you respond with patience and kindness, you help your partner feel valued and supported.
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
+For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
+
+Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
+[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 ## Conclusion
 

@@ -11,7 +11,7 @@ These articles explore mindfulness, stress reduction, emotional resilience, and 
 ## Articles in Mental & Emotional Wellness
 
 
-ul>
+<ul>
 {% for post in site.posts %}
   {% if post.categories contains "mental-emotional-wellness" %}
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

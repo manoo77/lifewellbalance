@@ -7,9 +7,10 @@ tags: [deep-breathing-for-anxiety-relief, breathing-exercises-to-relieve-anxiety
 image: /assets/img/ts-anxiety-relief.webp
 ---
 
-Deep Breathing for Anxiety Relief: A Simple Daily Practice That Works
+**Deep Breathing for Anxiety Relief: A Simple Daily Practice That Works**
 
 Feeling anxious can make your chest tight, your thoughts race, and your body tense. When anxiety hits, it’s easy to feel stuck. But one of the simplest tools for calming your mind is already with you — your breath.  
+
 Deep breathing for anxiety relief is a gentle, natural way to slow your heart rate, relax your muscles, and bring your focus back to the present moment.
 
 ![deep breathing]({{ '/assets/img/deep-breathing.webp' | relative_url }})
@@ -35,27 +36,37 @@ Breathing exercises to relieve anxiety are simple routines you can use anytime. 
 ![4-7-8 breathing technique]({{ '/assets/img/4-7-8-breathing-technique.webp' | relative_url }})
 
 ### 1. The 4‑4‑6 Method  
+
 This exercise is easy and works well during sudden stress.
 
 - Breathe in for 4 seconds  
+
 - Hold for 4 seconds  
+
 - Exhale slowly for 6 seconds  
 
 The long exhale helps your body release tension.
 
 ### 2. Belly Breathing  
+
 - Place one hand on your belly  
+
 - Breathe in through your nose and feel your belly rise  
+
 - Exhale through your mouth and feel your belly fall  
 
 This exercise helps you breathe from your diaphragm, which is the most calming way to breathe.
 
 ### 3. Box Breathing  
+
 This method is great when your mind feels scattered.
 
 - Inhale for 4 seconds  
+
 - Hold for 4 seconds  
+
 - Exhale for 4 seconds  
+
 - Hold again for 4 seconds  
 
 Repeat for one to two minutes.
@@ -71,22 +82,29 @@ Deep breathing to relieve anxiety works best when you use it regularly. You can 
 Here are simple ways to make it part of your day:
 
 ### Use it during stressful moments  
+
 Pause and take three slow breaths to reset your thoughts.
 
 ### Pair breathing with movement  
+
 Stretch your arms or roll your shoulders while breathing slowly.
 
 ### Practice before sleep  
+
 A few minutes of slow breathing can make it easier to fall asleep.
 
 ### Try breathing breaks  
+
 Set reminders for two or three breathing breaks during the day.
   
 For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/)
+For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/).
+
+Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
+[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 ## Final Thoughts
 

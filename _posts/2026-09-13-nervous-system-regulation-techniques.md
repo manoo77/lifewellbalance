@@ -11,7 +11,8 @@ image: /assets/img/ts-how-to-calm-your-body-and-mind-naturally.webp
 
 Your nervous system has two main modes:
 
-- Sympathetic (fight, flight, freeze)  
+- Sympathetic (fight, flight, freeze) 
+
 - Parasympathetic (rest, digest, calm)
 
 When stress builds up, your body can get stuck in the sympathetic mode. Regulation techniques help shift you back into parasympathetic calm — lowering heart rate, relaxing muscles, and quieting racing thoughts.
@@ -28,8 +29,10 @@ Slow, controlled breathing is one of the fastest ways to regulate your nervous s
 
 Try this pattern:
 
-- Inhale for 4 seconds  
+- Inhale for 4 seconds 
+
 - Hold for 2 seconds  
+
 - Exhale for 6 seconds  
 
 Longer exhales tell your body it’s safe.
@@ -43,9 +46,13 @@ If you want a full guide, see [Deep Breathing for Anxiety Relief](/posts/deep-br
 This sensory exercise pulls your mind out of spiraling thoughts and back into the present moment.
 
 - 5 things you can see  
+
 - 4 things you can touch  
+
 - 3 things you can hear  
+
 - 2 things you can smell  
+
 - 1 thing you can taste  
 
 It’s especially helpful during anxiety spikes or panic sensations.
@@ -57,7 +64,9 @@ It’s especially helpful during anxiety spikes or panic sensations.
 Stress often hides in the body as tension. This technique helps release it:
 
 - Tighten one muscle group for 5 seconds  
+
 - Release completely  
+
 - Move to the next area  
 
 Start with your shoulders, jaw, hands, and stomach — the most common tension zones.
@@ -69,9 +78,13 @@ Start with your shoulders, jaw, hands, and stomach — the most common tension z
 These simple actions activate the vagus nerve and shift your body into calm mode:
 
 - Humming or singing  
+
 - Gargling water  
+
 - Splashing cool water on your face  
+
 - Slow neck stretches  
+
 - Gentle chest‑opening stretches  
 
 These techniques are quick and surprisingly effective.
@@ -85,7 +98,9 @@ This method helps release stored stress energy from the body.
 Try:
 
 - shaking your hands  
-- bouncing lightly on your feet  
+
+- bouncing lightly on your feet 
+
 - gently shaking your arms and legs  
 
 Animals do this instinctively after stress — and it works for humans too.
@@ -99,7 +114,9 @@ This technique helps calm emotional intensity and reduce overwhelm.
 Try:
 
 - tapping left/right shoulders alternately  
-- walking while swinging arms naturally  
+
+- walking while swinging arms naturally 
+
 - listening to audio that alternates left/right channels  
 
 It helps your brain process stress more smoothly.
@@ -113,9 +130,13 @@ Your nervous system responds well to repetitive, predictable motion.
 Good options include:
 
 - walking  
+
 - gentle yoga  
+
 - swaying side to side  
+
 - rocking in a chair  
+
 - stretching slowly  
 
 These movements help regulate breathing and heart rate.
@@ -128,8 +149,10 @@ Sometimes the nervous system becomes dysregulated because of spiraling thoughts.
 
 Try asking:
 
-- “Is this thought true?”  
+- “Is this thought true?” 
+
 - “Is this thought helpful?”  
+
 - “What’s a calmer version of this thought?”
 
 For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
@@ -140,8 +163,10 @@ For deeper guidance, see [How to Stop Worrying About Things You Can’t Control]
 
 Certain nutrients help stabilize the nervous system:
 
-- Magnesium (calms muscles and nerves)  
+- Magnesium (calms muscles and nerves) 
+
 - Omega‑3s (support mood regulation)  
+
 - B vitamins (support stress response)
  
 If you’re curious about magnesium’s role, see [Anxiety and Low Magnesium](/posts/anxiety-and-low-magnesium/).
@@ -155,8 +180,11 @@ Humans regulate better together. Talking to someone calm, supportive, or grounde
 This can be:
 
 - a partner  
+
 - a friend  
+
 - a therapist  
+
 - a support group  
  
 If anxiety affects your relationships, see [How to Deal With Someone With Anxiety in a Relationship](/posts/how-to-deal-with-someone-with-anxiety-in-a-relationship/).
@@ -166,6 +194,9 @@ If anxiety affects your relationships, see [How to Deal With Someone With Anxiet
 For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
 
 If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
+
+Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
+[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 
 
