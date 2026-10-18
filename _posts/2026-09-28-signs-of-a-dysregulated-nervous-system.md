@@ -14,15 +14,6 @@ Have you ever felt stuck in stress mode, even when nothing dangerous is happenin
 
 These experiences can sometimes be signs of a dysregulated nervous system. When the nervous system struggles to move smoothly between periods of stress and relaxation, both physical and emotional symptoms can appear.
 
-
-If you're interested in improving emotional well-being and stress resilience, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
-
-
-Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/).
-
-
-
 **Common Nervous System Symptoms**
 
 The nervous system controls many important functions in the body. It helps regulate emotions, breathing, heart rate, sleep, and stress responses.
@@ -51,7 +42,7 @@ Some people also experience digestive discomfort, headaches, or increased sensit
 
 These symptoms often develop gradually. Many people do not immediately recognize that chronic stress may be contributing to the problem.
 
-If you've experienced anxiety our article on [deep breathing for anxiety relief](/posts/deep-breathing-for-anxiety-relief/) maby be helpful.
+If you've experienced anxiety read [deep breathing for anxiety relief](/posts/deep-breathing-for-anxiety-relief/) maby be helpful.
 
 **What Causes Nervous System Imbalance?**
 
@@ -122,7 +113,7 @@ Practice Nervous System Regulation Techniques
 
 Intentional relaxation exercises can help the body shift out of a stress response.
 
-You may also want to learn about [nervous system regulation techniques](/posts/nervous-system-regulation-techniques/)
+You may also want to learn about [emotional exhaustion symptoms](/posts/emotional-burnout-symptoms/).
 
 
 When to Seek Additional Support
@@ -140,14 +131,12 @@ The signs of a dysregulated nervous system can appear in many different ways. Co
 Understanding the possibility of a nervous system imbalance is often the first step toward improvement. By supporting your body with rest, movement, healthy habits, and stress-management practices, you can help create a stronger foundation for emotional well-being.
 
 
-Learn more about [ways to reduce anxiety naturally](/posts/ways-to-reduce-anxiety-naturally/)
+You may also want to learn about [how to increase dopamine and-serotonin naturally](/posts/how-to-increase-dopamine-and-serotonin-naturally/).
 
-
-You may also want to learn about [how to increase dopamine and-serotonin naturally](/posts/how-to-increase-dopamine-and-serotonin-naturally/)
+This practice on [agus Nerve Exercises for Stress](/posts/vagus-nerve-exercises-for-stress/) can help you promote feelings of calm.
 
 
 For more guidance on stress management and emotional health, visit the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
-
+{% include health-disclaimer.html %}

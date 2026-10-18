@@ -61,7 +61,7 @@ Oats help stabilize blood sugar, while turmeric and cinnamon add powerful anti�
 
 - sliced banana or berries  
  
-Turmeric’s active compound, curcumin, supports long‑term joint comfort — similar to what you’ll find in [The Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/).
+Turmeric’s active compound, curcumin, supports long‑term joint comfort.
 
 🥑 3. Avocado Toast With Olive Oil 
 
@@ -166,20 +166,20 @@ Some breakfast foods can increase inflammation or cause blood sugar spikes:
 
 - sweetened yogurt  
  
-If you struggle with blood sugar swings, you may find helpful insights in [Blood Sugar Swings](/posts/blood-sugar-swings/).
-
 🌼 Final Thoughts  
 
 Anti‑inflammatory breakfasts don’t need to be complicated. With simple ingredients like berries, oats, olive oil, chia seeds, and leafy greens, you can support joint comfort, reduce inflammation, and enjoy steady energy all morning.
 
-[Learn more about low-glycemic breakfast foods](/posts/low-glycemic-breakfast-foods/).
+Study the following pages as well to get more info on reducing inflammatory pain.
+
 
 More information on [Foods That Help Cartilage Repair](/posts/foods-that-help-cartilage-repair/).
 
-[How to Improve Joint Mobility Naturally](/posts/how-to-improve-joint-mobility-naturally/).
 
+[Anti Inflammatory Smoothie Recipes ](/posts/anti-inflammatory-smoothie-recipes/).
 
 
 For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

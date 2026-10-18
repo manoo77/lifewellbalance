@@ -37,8 +37,6 @@ Try this pattern:
 
 Longer exhales tell your body it’s safe.
 
-If you want a full guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
-
 ---
 
 🌬 2. The 5‑4‑3‑2‑1 Grounding Technique
@@ -155,8 +153,6 @@ Try asking:
 
 - “What’s a calmer version of this thought?”
 
-For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
-
 ---
 
 🧂 9. Supportive Nutrients
@@ -186,24 +182,19 @@ This can be:
 - a therapist  
 
 - a support group  
- 
-If anxiety affects your relationships, see [How to Deal With Someone With Anxiety in a Relationship](/posts/how-to-deal-with-someone-with-anxiety-in-a-relationship/).
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
-
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
-
-Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
-
-
+Learn more about [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 🌼 Final Thoughts
 
 Nervous system regulation isn’t about eliminating stress — it’s about giving your body tools to return to calm more easily. With practice, these techniques help you feel more grounded, more resilient, and more in control of your emotional state.
  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+This practice on [agus Nerve Exercises for Stress](/posts/vagus-nerve-exercises-for-stress/) can help you promote feelings of calm.
+
+Also check out [emotional burnout symptoms](/posts/emotional-burnout-symptoms/) and [grounding exercises for anxiety](/posts/grounding-exercises-for-anxiety/).
+
+
+{% include health-disclaimer.html %}

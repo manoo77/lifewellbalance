@@ -17,8 +17,6 @@ Perhaps a delayed text message makes you think a relationship is in trouble. May
 
 Learning how to stop catastrophic thinking can help you reduce stress, improve emotional well-being, and respond to challenges with a clearer mindset.
 
-If you're working on anxiety management and emotional resilience, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
-
 Understanding Anxiety Thought Patterns
 
 Catastrophic thinking happens when the mind automatically jumps to the worst-case scenario.
@@ -51,8 +49,9 @@ Physical tension
 
 Many people do not realize how often these thought patterns operate in the background.
 
-If worry tends to dominate your thoughts, you may also benefit from reading [how to stop worrying about things you cant control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
+If worry tends to dominate your thoughts, you may also benefit from reading 
 
+[how to stop worrying about things you cant control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 Practical Strategies for Coping With Worst Case Thinking
 
@@ -126,9 +125,6 @@ Nervous System Regulation
 
 Many people find that calming the body helps calm the mind.
 
-Our article on [nervous system regulation techniques](/posts/nervous-system-regulation-techniques/) explains additional strategies.
-
-
 When Catastrophic Thinking Becomes a Pattern
 
 Everyone worries from time to time.
@@ -138,11 +134,6 @@ However, repeated catastrophic thoughts that interfere with daily life may deser
 Support from a qualified mental health professional can help you develop healthier ways of responding to anxiety and stress.
 
 
-You may also find useful ideas in [how to reduce anxiety and panic attacks naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/) and [ways to reduce anxiety naturally](/posts/ways-to-reduce-anxiety-naturally/).
-
-Learn more about [rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
-
-
 Final Thoughts
 
 Learning how to stop catastrophic thinking is not about forcing yourself to be positive all the time. Instead, it involves recognizing anxiety thought patterns and developing healthier ways of coping with worst case thinking.
@@ -150,6 +141,13 @@ Learning how to stop catastrophic thinking is not about forcing yourself to be p
 Over time, these skills can help you respond to uncertainty with more confidence and less fear.
 
 
+You may also find useful ideas in [how to reduce anxiety and panic attacks naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/). 
+
+Learn more about [anxiety grounding techniques](/posts/grounding-exercises-for-anxiety/).
+
+
 For more articles on anxiety, stress management, and emotional wellness, visit the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}
+

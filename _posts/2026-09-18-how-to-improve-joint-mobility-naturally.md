@@ -50,8 +50,6 @@ These movements encourage joints to move comfortably without excessive strain.
 
 Walking is another excellent option. It is simple, free, and helps many joints work together naturally.
 
-For people with knee discomfort, our guide to [best exercise for stiff knees](/posts/best-exercise-for-stiff-knees/) provides additional ideas.
-
 Strength training can also help. Strong muscles support joints and improve stability. If you're just starting, consider these [strength exercises](/posts/beginner-strength-exercises-for-joint-support/).
 
 Remember to start slowly and increase activity gradually.
@@ -109,14 +107,13 @@ Occasional stiffness is common. However, ongoing pain, swelling, or reduced move
 
 Persistent symptoms may be related to an underlying condition that requires evaluation.
 
-Many people also experience fluid buildup around the knee. If this sounds familiar, read our article on [how to remove fluid from knee naturally](/posts/how-to-remove-fluid-from-knee-naturally/).
-
 Final Thoughts
 
 Learning how to improve joint mobility naturally does not require complicated routines. Consistent movement, simple joint mobility exercises, and healthy daily habits can help support natural joint health over time.
 
 Small improvements add up. By staying active, eating well, and caring for your joints each day, you can enjoy greater comfort and freedom of movement.
 
-For more guidance on movement, nutrition, and healthy aging, visit the [physical wellness page](/pillar/physical-wellness/).
+Visit the following page to learn [foods that help cartilage repair](/posts/foods-that-help-cartilage-repair/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

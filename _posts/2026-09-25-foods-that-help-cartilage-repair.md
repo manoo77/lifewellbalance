@@ -155,6 +155,12 @@ Foods that help cartilage repair are best viewed as part of a long-term strategy
 
 By focusing on nutritious whole foods and maintaining healthy lifestyle habits, you can help support your joints for years to come.
 
+Visit the following page to get more ideas on [Anti Inflammatory Smoothie Recipes ](/posts/anti-inflammatory-smoothie-recipes/).
+
 For more nutrition and joint-care strategies, visit the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+======================
+
+2026-09-30-anti-inflammatory-smoothie-recipes.md
+
+{% include health-disclaimer.html %}

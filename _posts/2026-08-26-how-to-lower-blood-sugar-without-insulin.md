@@ -27,7 +27,7 @@ Movement is another powerful tool. You don’t need long workouts. Even a 10‑m
 
 Stress also affects blood sugar. When stress hormones rise, glucose rises too. Try deep breathing, stretching, or short breaks during the day. These small moments help your body stay calm and balanced.
 
-If stress affects your blood sugar, see [Hidden Causes of Blood Sugar Spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
+See also [how to prevent blood sugar crashes](/posts/how-to-prevent-blood-sugar-crashes/).
 
 ## How Can You Lower Your Blood Sugar Without Medication
 
@@ -57,4 +57,5 @@ If your blood sugar stays high or symptoms worsen, speak with a healthcare profe
 
 For more guidance on glucose balance and inflammation, explore [Blood Sugar Swings](/posts/blood-sugar-swings/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

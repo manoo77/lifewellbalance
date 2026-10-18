@@ -245,5 +245,11 @@ More information on [Foods That Help Cartilage Repair](/posts/foods-that-help-ca
 
 Learn more about [low-glycemic breakfast foods](/posts/low-glycemic-breakfast-foods/).
 
+[how to prevent blood sugar crashes](/posts/how-to-prevent-blood-sugar-crashes/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+=========================
+
+2026-09-29-how-to-prevent-blood-sugar-crashes.md
+2026-09-28-low-glycemic-breakfast-foods.md
+
+{% include health-disclaimer.html %}

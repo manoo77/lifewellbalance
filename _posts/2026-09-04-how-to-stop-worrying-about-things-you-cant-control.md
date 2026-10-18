@@ -16,8 +16,6 @@ Worry is normal. But constant worry drains your energy and steals your peace. Yo
 
 ![ground yourself]({{ '/assets/img/ground-yourself-in-the-present-moment.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
-
 ---
 
 ## Why We Worry About the Uncontrollable
@@ -53,8 +51,6 @@ Small actions help your mind reset.
 
 Give yourself five minutes to think about the fear. When the time is up, move on.  
 This teaches your brain to stop spiraling.
-
-For deeper guidance on breaking mental loops, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -107,8 +103,9 @@ If anxiety is affecting your relationships, explore [How to Deal With Someone Wi
 
 For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
-Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
+
+
+Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and [emotional burnout symptoms](/posts/emotional-burnout-symptoms/).
 
 
 ## Summary
@@ -118,4 +115,5 @@ Let go of what isn’t yours to carry. Choose calm, one moment at a time.
 
 For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

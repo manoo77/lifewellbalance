@@ -77,8 +77,6 @@ Many people experience mid-morning fatigue after eating a breakfast high in refi
 
 This can sometimes result in hunger, cravings, and reduced concentration.
 
-If you've experienced frequent highs and lows throughout the day, our article on [blood sugar swings](/posts/blood-sugar-swings/) may be helpful.
-
 You may also want to learn about [hidden causes of blood sugar spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
 
 Understanding these patterns can help you make more informed food choices.
@@ -139,6 +137,9 @@ Low glycemic breakfast foods can help support stable energy and healthier eating
 
 Small breakfast changes can lead to meaningful improvements over time.
 
+[how to prevent blood sugar crashes](/posts/how-to-prevent-blood-sugar-crashes/).
+
 For more healthy eating strategies and blood sugar guidance, visit the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

@@ -10,9 +10,7 @@ image: /assets/img/ts-reducing-anxiety.webp
 **Ways to Reduce Anxiety Naturally** 
 Anxiety can show up during busy days, stressful moments, or even quiet evenings. Learning ways to reduce anxiety naturally can help you feel calmer without relying on complicated routines. Small habits, gentle practices, and mindful choices can make a big difference in how your body and mind respond to stress.
 
-![quick ways to calm anxiety]({{ '/assets/img/quick-ways-to-calm-anxiety.webp' | relative_url }})
-
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
+![quick ways to calm anxiety]({{ '/assets/img/quick-ways-to-calm-anxiety.webp' | relative_url }}).
 
 ---
 
@@ -29,7 +27,6 @@ These simple actions help you regain control during sudden waves of anxiety.
 
 ![fast ways to calm anxiety]({{ '/assets/img/fast-ways-to-calm-anxiety.webp' | relative_url }})
 
-For a full breathing guide, see [Deep Breathing for Anxiety Relief](/posts/deep-breathing-for-anxiety-relief/).
 
 ---
 
@@ -67,20 +64,19 @@ These practices support both your mind and body, helping you feel calmer overall
 
 ![natural mind body anxiety relief]({{ '/assets/img/natural-mind-body-anxiety-relief.webp' | relative_url }})
 
-For nervous system calming tools, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
+For nervous system calming tools, see [vagus nerve exercises for stress](/posts/vagus-nerve-exercises-for-stress/).
 
 ---
-
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
-
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
-
-Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 🌺 Conclusion  
 Finding ways to reduce anxiety naturally starts with small, steady steps. Quick calming tools help during stressful moments. Easy daily habits support long‑term balance. Mind‑body practices create deeper calm. With gentle consistency, these natural methods can help you feel more grounded and at ease.
 
+
+Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/). 
+And [grounding exercises for anxiety](/posts/grounding-exercises-for-anxiety/).
+
+
 For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

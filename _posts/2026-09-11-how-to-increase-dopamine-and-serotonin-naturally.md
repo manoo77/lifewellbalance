@@ -55,8 +55,6 @@ Try keeping a simple sleep routine: consistent bedtimes, limited screens before 
 
 ![calm practice]({{ '/assets/img/calm-practice.webp' | relative_url }})
 
-If sleep struggles are tied to anxiety, explore [How to Reduce Anxiety and Panic Attacks Naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/).
-
 ---
 
 🧘 Calm Practices That Naturally Boost Serotonin Dopamine  
@@ -66,15 +64,8 @@ Stress can lower dopamine and serotonin. Calm practices help your brain recover.
 Deep breathing, meditation, or quiet time reduce stress hormones. When stress drops, your brain can make more dopamine and serotonin.
 
 You don’t need long sessions — even two minutes of slow breathing can help. Social connection also boosts these chemicals naturally.
- 
-For a full guide to calming your nervous system, see [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
 
 ---
-
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
-
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/).
-
 
 🌼 Final Thoughts  
 
@@ -82,6 +73,8 @@ Learning how to increase dopamine and serotonin naturally doesn’t have to be c
 
 Choose one or two habits to start with. Over time, these simple steps can help you feel more balanced, motivated, and emotionally steady.
 
-For more guidance on mood, anxiety, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+Read also [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/). And [emotional burnout symptoms](/posts/emotional-burnout-symptoms/).
+
+
+{% include health-disclaimer.html %}

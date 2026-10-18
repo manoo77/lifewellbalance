@@ -10,8 +10,6 @@ image: /assets/img/ts-low-cholestrol-food.webp
 **Low Fat Low Cholesterol Diet Meal Plan**  
 Creating a low fat low cholesterol diet meal plan can feel overwhelming at first, but it doesn’t have to be. Small, steady changes in your daily meals can support heart health, improve energy, and help you feel more in control of your wellness. This guide keeps things simple, clear, and practical so you can start right away.
 
-If you’re exploring heart‑healthy nutrition, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
-
 ## A Simple Plan to Lower Cholesterol 
 
 A strong plan to lower cholesterol focuses on foods that support your heart while keeping saturated fat low. You don’t need complicated recipes or expensive ingredients. Everyday foods can make a big difference.
@@ -106,4 +104,4 @@ A low fat low cholesterol diet meal plan doesn’t need to be complicated. With 
 
 For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for personalized guidance.
+{% include health-disclaimer.html %}

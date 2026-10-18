@@ -13,7 +13,6 @@ Supporting a partner who lives with anxiety can feel confusing at times. You may
 
 Anxiety shows up in many ways. Some people worry about the future. Others fear conflict or feel overwhelmed by daily stress. When you understand these patterns, you can support your partner without losing your own balance.
 
-Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
 ![handle anxiety in relationships]({{ '/assets/img/handle-anxiety-in-relationships.webp' | relative_url }})
   
@@ -31,7 +30,6 @@ Another key step is to avoid taking their anxiety personally. Their worry is not
 
 ![deal with partner with anxiety]({{ '/assets/img/deal-with-partner-with-anxiety.webp' | relative_url }})
  
-For deeper guidance, see [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 ## Practical Ways on How to Deal With Partner With Anxiety
 
@@ -72,12 +70,13 @@ Remember that anxiety is not a flaw — it is a human experience. When you respo
 For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
 Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
+[grounding exercises for anxiety](/posts/grounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 ## Conclusion
 
 Supporting a partner with anxiety takes empathy, clarity, and steady communication. By learning **how to handle anxiety in relationships** and practicing simple supportive habits, you can create a relationship that feels safe and strong for both of you.
  
-For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
+Are you working on improving your emotional balance? You may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

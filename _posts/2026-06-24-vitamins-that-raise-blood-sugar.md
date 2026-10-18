@@ -38,7 +38,6 @@ Most vitamins do not directly raise blood sugar. However, certain supplements ma
 
 These effects are usually mild. Still, it’s important to talk with a healthcare professional before taking high‑dose supplements.
 
-If you’re exploring how vitamins affect inflammation and metabolism, see [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 🌿 Vitamin K2 Lowers Blood Sugar: A Helpful Contrast  
 
@@ -51,7 +50,7 @@ Some studies suggest vitamin K2 may help reduce fasting blood sugar over time.
 
 You can find vitamin K2 in foods like natto, hard cheeses, and egg yolks.
 
-If inflammation affects your joints or blood sugar, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
+If inflammation affects your joints or blood sugar, explore [blood sugar friendly breakfast](/posts/low-glycemic-breakfast-foods/).
 
 🌼 Conclusion  
 So, are there vitamins that raise blood sugar? Only a few may have mild effects, and usually only at high doses. Low vitamin D can make blood sugar harder to control, while vitamin K2 may help support healthier levels.
@@ -60,4 +59,5 @@ Choosing whole foods, balanced meals, and safe supplement doses can help you mai
 
 For more guidance on metabolic balance and inflammation, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

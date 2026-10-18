@@ -11,7 +11,6 @@ image: /assets/img/ts-joint-support-exercises.webp
 
 Strengthening the muscles around your joints is one of the most effective ways to reduce pain, improve mobility, and prevent long‑term wear and tear. These beginner strength exercises for joint support are simple, safe, and designed for people who want to build stability without heavy weights or complicated routines.
 
-If you’re exploring joint health, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 🦵 Why Strength Exercises Help Your Joints  
 
@@ -29,7 +28,6 @@ Strength training helps:
 
 - reduce morning stiffness  
 
-If you wake up with knee pain, see [Why Your Knees Hurt in the Morning](/posts/why-your-knees-hurt-in-the-morning/) for more insight.
 
 ![soft exercise set]({{ '/assets/img/soft-exercises.webp' | relative_url }})
 
@@ -189,14 +187,11 @@ If inflammation affects your joints, explore [Foods That Help Inflamed Joints](/
 
 Strength training doesn’t have to be intense to be effective. These beginner exercises help stabilize your joints, reduce pain, and improve mobility — all with simple movements you can do at home.
 
-For more guidance on joint health, inflammation, and mobility, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
-
 
 [** For more information on How to Improve Joint Mobility Naturally"**](/posts/how-to-improve-joint-mobility-naturally/)
 
-More information on [Foods That Help Cartilage Repair](/posts/foods-that-help-cartilage-repair/).
 
-[**Learn more about low-glycemic breakfast foods**](/posts/low-glycemic-breakfast-foods/).
+For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+{% include health-disclaimer.html %}

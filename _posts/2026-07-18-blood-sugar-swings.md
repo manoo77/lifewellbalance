@@ -54,13 +54,16 @@ These steps are gentle, practical, and easy to fit into daily life.
 
 ![how to manage blood sugar swings]({{ '/assets/img/managing-blood-sugar-swings.webp' | relative_url }})
 
-If inflammation affects your joints or blood sugar, explore [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/).
 
 Emotional stress can also affect glucose balance. Learn more in [How to Stop Worrying About Things You Can’t Control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 🌼 Conclusion  
 Blood sugar swings can affect how you feel from hour to hour. By understanding the symptoms and causes, you can take small steps toward steadier energy and better health. Balanced meals, movement, and stress management all help support smoother blood sugar patterns.
 
+
+[blood sugar balance](/posts/how-to-prevent-blood-sugar-crashes/).
+
 For more guidance on glucose balance and metabolic-health, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+{% include health-disclaimer.html %}

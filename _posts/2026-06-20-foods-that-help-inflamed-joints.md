@@ -35,7 +35,7 @@ Great choices:
 
 - raspberries  
 
-Add them to yogurt, smoothies, or oatmeal. For breakfast ideas, explore [Anti‑Inflammatory Breakfast Ideas](/posts/anti-inflammatory-breakfast-ideas/).
+Add them to yogurt, smoothies, or oatmeal. For breakfast ideas, explore [Anti‑Inflammatory Smoothie Recipes](/posts/anti-inflammatory-smoothie-recipes/).
 
 
 These foods are easy to mix into salads, smoothies, or simple home‑cooked meals.
@@ -66,7 +66,7 @@ Add them to:
 
 - salads  
 
-They also help stabilize blood sugar, which is important because glucose-spikes can worsen inflammation. Learn more in [Hidden Causes of Blood Sugar Spikes](/posts/hidden-causes-of-blood-sugar-spikes/).
+They also help stabilize blood sugar, which is important because glucose-spikes can worsen inflammation. 
 
 These foods are simple to add to your routine. A spoon of olive oil, a pinch of turmeric, or a handful of nuts can make a real difference.
 
@@ -84,7 +84,7 @@ Knee pain is common, especially as we age or stay active. Adding food to reduce 
 
 Small daily choices can support long‑term knee comfort.
 
-Chronic inflammation can increase stress levels. For calming techniques, explore [Nervous System Regulation Techniques](/posts/nervous-system-regulation-techniques/).
+Chronic inflammation can increase stress levels. 
 
 If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/) can help support emotional balance.
 
@@ -92,11 +92,10 @@ If discomfort affects your mood, these [Ways to Reduce Anxiety Naturally](/posts
 
 Choosing foods that help inflamed joints is a simple way to support your health. These foods are easy to enjoy and can help reduce discomfort over time. Pair them with gentle movement, rest, and hydration for even better results.
 
-[How to Improve Joint Mobility Naturally](/posts/how-to-improve-joint-mobility-naturally/).
 
-[Learn more about low-glycemic breakfast foods](/posts/low-glycemic-breakfast-foods/).
+More information on [Foods That Help Cartilage Repair](/posts/foods-that-help-cartilage-repair/).
 
 For more guidance on inflammation, mobility, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+{% include health-disclaimer.html %}

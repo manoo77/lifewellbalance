@@ -14,7 +14,6 @@ Waking up with stiff, achy knees is more common than you think — especially if
 
 ![knee pain]({{ '/assets/img/knee-pain.webp' | relative_url }})
 
-If you’re exploring joint health, you may also find helpful guidance in the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
 🦵 Why Morning Knee Pain Happens 
 
@@ -68,8 +67,6 @@ This is common after long days of standing, sitting, or repetitive movement.
 
 Weak quadriceps, hamstrings, and glutes force the knee joint to absorb more stress. Overnight, this can lead to stiffness and pain when you first stand up.
 
-See [Best Exercise for Stiff Knees](/posts/best-exercise-for-stiff-knees/) — Gentle movements that reduce stiffness and improve mobility.
-
 🦴 4. Early Signs of Osteoarthritis  
 
 Morning stiffness is one of the earliest signs of osteoarthritis. It typically improves within 30 minutes of moving around.
@@ -102,8 +99,6 @@ A pillow between the knees can reduce pressure and improve alignment.
 
 High or unstable blood sugar can increase inflammation, making morning knee pain worse.
  
-See [Blood Sugar Swings](/posts/blood-sugar-swings/) for more insight into glucose fluctuations.
-
 
 ![gentel movment in bed]({{ '/assets/img/gentel-movment-in-bed.webp' | relative_url }})
 
@@ -153,12 +148,18 @@ See [Best Exercise for Stiff Knees](/posts/best-exercise-for-stiff-knees/) for s
 
 ✔ Reduce Fluid Buildup  
 
-See [Beginner Strength Exercises for Joint Support](/posts/beginner-strength-exercises-for-joint-support/) — Build supportive muscles around the knee.
 
 🌼 Final Thoughts  
 
 Morning knee pain is usually a sign that your joints need more support — not a sign of something serious. With the right combination of movement, nutrition, and nighttime habits, you can reduce stiffness and start your day feeling more comfortable and mobile.
 
+
+
+See also [natural joint health](/posts/how-to-improve-joint-mobility-naturally/)
+
+
 For more guidance on inflammation, joint health, and metabolic balance, explore the [Physical Wellness Pillar](/pillar/physical-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+
+
+{% include health-disclaimer.html %}

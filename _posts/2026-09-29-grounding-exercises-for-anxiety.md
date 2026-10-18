@@ -15,9 +15,6 @@ Anxiety can make it feel as if your thoughts are moving faster than you can keep
 Grounding exercises for anxiety are simple techniques that help bring your attention back to the present moment. They do not eliminate anxiety instantly, but they can help reduce its intensity and make difficult moments feel more manageable.
 
 
-If you're working on emotional resilience and anxiety management, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
-
-
 **Why Anxiety Grounding Techniques Work**
 
 When anxiety increases, the mind often focuses on future problems or worst-case scenarios. Your body may respond as if a real threat is happening right now.
@@ -112,19 +109,16 @@ Professional guidance can provide personalized strategies and tools that complem
 
 ![calming exercises for anxiety]({{ '/assets/img/calming-exercises-for-anxiety.webp' | relative_url }})
 
-You may also want to read [how to reduce anxiety and panic attacks naturally](/posts/how-to-reduce-anxiety-and-panic-attacks-naturally/) and [ways to reduce anxiety naturally](/posts/ways-to-reduce-anxiety-naturally/) for additional ideas.
-
 Final Thoughts
 
 Grounding exercises for anxiety are simple yet powerful tools that help reconnect your attention to the present moment. Effective anxiety grounding techniques can interrupt spirals of worry, while calming exercises for anxiety can help create a greater sense of control during stressful situations.
 
 The more often you practice these skills, the easier they may become when you need them most.
 
-Learn about [how to stop worrying about things you cant control](/posts/how-to-stop-worrying-about-things-you-cant-control/).
 
 Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 For additional mental wellness resources, visit the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/) page.
 
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice.
+{% include health-disclaimer.html %}

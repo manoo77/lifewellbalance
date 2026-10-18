@@ -12,8 +12,6 @@ Many people feel anxious without knowing why. One surprising cause can be **anxi
 
 ![Anxiety and Low Magnesium]({{ '/assets/img/magnesium.webp' | relative_url }})
 
-If you’re exploring emotional balance, you may also find helpful guidance in the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
-
 ---
 
 🌿 7 Signs and Symptoms of Magnesium Deficiency  
@@ -38,8 +36,6 @@ These **7 signs and symptoms of magnesium deficiency** are the most common:
 These symptoms happen because magnesium helps regulate nerve signals and muscle movement. When levels drop, the body becomes more sensitive to stress, which can increase anxiety.
 
 ![signs of Low Magnesium]({{ '/assets/img/7-signs-sympotms-of-magnesium-deficiency.webp' | relative_url }})
-
-For more natural anxiety‑relief habits, see [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
 
 ---
 
@@ -93,15 +89,9 @@ For deeper guidance on calming your nervous system, see [Nervous System Regulati
 
 ---
 
-For joint‑friendly nutrition that supports inflammation and overall calm, explore the [Foods That Help Inflamed Joints](/posts/foods-that-help-inflamed-joints/)
-
-If stress affects your body, these [Best Exercises for Stiff Knees](/posts/best-exercise-for-stiff-knees/) can help reduce tension and improve mobility.
-
-For gentle foods that support nighttime recovery, see [the Complete Anti‑Inflammatory Diet for Beginners](/posts/the-complete-anti-inflammatory-diet-for-beginners/).
-
 
 Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and
-[rounding exercises for anxiety](/posts/rounding-exercises-for-anxiety/), and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
+[grounding exercises for anxiety](/posts/grounding-exercises-for-anxiety/), and [nervous system symptoms](/posts/signs-of-a-dysregulated-nervous-system/).
 
 
 🌼 Conclusion
@@ -110,6 +100,8 @@ The link between anxiety and low magnesium is stronger than many people realize.
 
 Small steps can make a big difference. With the right habits, your body can feel more balanced, and your mind can feel more at ease.
 
+
 For more guidance on anxiety, mood, and emotional balance, explore the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/).
 
-Medical Disclaimer: This article is for informational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for personalized guidance.
+
+{% include health-disclaimer.html %}
