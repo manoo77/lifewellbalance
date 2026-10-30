@@ -78,3 +78,13 @@ exclude:
 webmanifest: /assets/img/favicons/manifest.json
 favicon:
   sources: []
+
+
+# Author / byline (used by the post meta "By ..." line)
+social:
+  name: Life Well Balance
+  email: alex@lifewellbalance.com
+  links:
+    - https://lifewellbalance.com
+
+
