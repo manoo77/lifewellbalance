@@ -4,6 +4,8 @@ timezone: Europe/Stockholm
 lang: en
 avatar: /assets/img/banner/life-well-balance.svg
 email: alex@lifewellbalance.com
+url: "https://lifewellbalance.com"
+baseurl: ""
 
 
 collections:

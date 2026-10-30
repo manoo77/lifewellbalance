@@ -19,7 +19,7 @@ If you're exploring joint health, you may also find helpful guidance in the
 
 Cartilage Repair Foods Worth Adding to Your Diet
 
-Cartilage is a flexible tissue that cushions your joints. It relies on several nutrients to stay healthy.
+Cartilage is a flexible tissue that cushions your joints. It relies on several nutrients to stay healthy.2026-09-27-foods-that-help-cartilage-repair.md
 
 Many cartilage repair foods contain nutrients that support connective tissue and overall joint function.
 
@@ -157,10 +157,5 @@ By focusing on nutritious whole foods and maintaining healthy lifestyle habits, 
 
 Visit the following page to get more ideas on [Anti Inflammatory Smoothie Recipes ](/posts/anti-inflammatory-smoothie-recipes/).
 
-For more nutrition and joint-care strategies, visit the [Physical Wellness Pillar](/pillar/physical-wellness/).
-
-======================
-
-2026-09-30-anti-inflammatory-smoothie-recipes.md
 
 {% include health-disclaimer.html %}
