@@ -52,6 +52,7 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+      license: false 
 
 jekyll-archives:
   enabled:

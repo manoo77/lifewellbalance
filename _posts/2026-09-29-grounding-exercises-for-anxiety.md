@@ -3,10 +3,15 @@ layout: post
 title: "Grounding Exercises for Anxiety"
 description: "Discover simple grounding exercises for anxiety that can help calm racing thoughts, reduce overwhelm, and bring your focus back to the present moment."
 date: 2026-09-29 10:10:00 +0000
-categories: [mental-emotional-wellness]
+categories: [mental-emotional-wellness, nervous-system-regulation]
 tags: [grounding-exercises, anxiety-grounding-techniques, calming-exercises-for-anxiety, stress-management, anxiety-relief, emotional-wellbeing, mindfulness]
 image: /assets/img/ts-grounding-exercises-for-anxiety.webp
 ---
+
+Grounding exercises are simple yet effective techniques that can help bring your focus back to the present moment when anxiety feels overwhelming. By engaging your senses and reconnecting with your surroundings, these practices can reduce racing thoughts, promote a sense of safety, and help you regain emotional balance during stressful situations.
+
+
+Explore more information on [Anxiety & Stress](/pillar/mental-emotional-wellness/anxiety-stress/).
 
 **Grounding Exercises for Anxiety**
 
@@ -69,6 +74,11 @@ Pay attention to the chair supporting your body or the feeling of your hands res
 
 These small observations can help create a stronger sense of stability.
 
+
+==> Learn [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
+
+
+
 **Slow Breathing**
 
 Take a slow breath in through your nose.
@@ -95,9 +105,11 @@ Stressful situations
 
 Short and consistent practice often works better than waiting until anxiety feels overwhelming.
 
+Regular movement, quality sleep, and healthy stress management habits can further support emotional well-being.
+
+
 You may also find it helpful to combine grounding with the strategies discussed in [nervous system regulation techniques](/posts/nervous-system-regulation-techniques/).
 
-Regular movement, quality sleep, and healthy stress management habits can further support emotional well-being.
 
 **When Anxiety Feels Persistent**
 
@@ -109,14 +121,15 @@ Professional guidance can provide personalized strategies and tools that complem
 
 ![calming exercises for anxiety]({{ '/assets/img/calming-exercises-for-anxiety.webp' | relative_url }})
 
+==> See [Ways to Reduce Anxiety Naturally](/posts/ways-to-reduce-anxiety-naturally/).
+
+
 Final Thoughts
 
 Grounding exercises for anxiety are simple yet powerful tools that help reconnect your attention to the present moment. Effective anxiety grounding techniques can interrupt spirals of worry, while calming exercises for anxiety can help create a greater sense of control during stressful situations.
 
 The more often you practice these skills, the easier they may become when you need them most.
 
-
-Learn more about [how to stop catastrophic thinking](/posts/how-to-stop-catastrophic-thinking/) and [signs of a dysregulated nervous system](/posts/signs-of-a-dysregulated-nervous-system/).
 
 For additional mental wellness resources, visit the [Mental & Emotional Wellness Pillar](/pillar/mental-emotional-wellness/) page.
 
