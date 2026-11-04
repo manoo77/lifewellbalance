@@ -41,7 +41,7 @@ Try these natural remedies to reduce swelling and ease discomfort.
 
 **Elevation:** Keep your leg raised on a pillow while resting. This helps fluid drain away from the joint.  
 
-**Gentle compression:** Use a soft elastic bandage to support your knee and prevent more fluid bu2026-08-20-how-to-remove-fluid-from-knee-naturally.mdildup.  
+**Gentle compression:** Use a soft elastic bandage to support your knee and prevent more fluid buildup. 
 
 **Herbal remedies:** Drink turmeric or ginger tea daily. Both herbs fight inflammation naturally.  
 

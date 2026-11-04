@@ -29,7 +29,7 @@ This article explains how deep breathing works, why it helps, and how you can us
 
 ## How Deep Breathing Helps Calm Anxiety
 
-Deep breathing changes how your body reacts to stress. When you breathe slowly and deeply, you activate the body’s “rest and relax” system. This lowers your heart ratarticlee and helps your muscles loosen.
+Deep breathing changes how your body reacts to stress. When you breathe slowly and deeply, you activate the body’s “rest and relax” system. This lowers your heart rate and helps your muscles loosen.
 
 Many people notice that their thoughts become clearer after just a few slow breaths. This happens because deep breathing increases oxygen flow and signals your brain that you are safe.
 

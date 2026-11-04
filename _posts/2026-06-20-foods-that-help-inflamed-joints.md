@@ -19,7 +19,7 @@ Living with joint pain can make daily life feel heavy. The good news is that cer
 ![anti inflammatory foods]({{ '/assets/img/anti-inflammatory-foods.webp' | relative_url }})
 
 
-==> This recipes could be a good [help to reduce inflammatory ](/posts/anti-inflammatory-smoothie-recipes/).
+==> These recipes could be a good [help to reduce inflammatory ](/posts/anti-inflammatory-smoothie-recipes/).
 
 🥑 Anti‑Inflammatory Foods That Fight Arthritis and Inflammation  
 

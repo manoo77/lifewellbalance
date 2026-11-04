@@ -28,7 +28,7 @@ Adding natural anti‑inflammatory foods for joint pain to your meals can help y
 
 - Bright fruits such as berries and oranges add antioxidants. These natural compounds help protect your joints from everyday wear.  
 
---> Explorre [Low Cholesterol Diet Meal](/posts/low-fat-low-cholesterol-diet-meal-plan/).
+==> Explore [Low Cholesterol Diet Meal](/posts/low-fat-low-cholesterol-diet-meal-plan/).
 
 - Leafy greens like spinach and kale bring vitamins that support strong bones and smooth movement.
 

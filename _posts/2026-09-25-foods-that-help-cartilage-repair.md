@@ -10,7 +10,7 @@ image: /assets/img/ts-foods-that-help-cartilage-repair.webp
 
 Cartilage plays a crucial role in cushioning and protecting your joints, allowing smooth and pain-free movement. While nutrition alone cannot reverse severe cartilage damage, certain foods provide important nutrients that support cartilage health, reduce inflammation, and promote the body's natural repair processes. Including these nutrient-rich foods in your diet may help support stronger joints and improve long-term mobility and comfort.
 
-Check this page for information realted to [Joint health](/pillar/physical-wellness/joint-health/)
+==> Check this page for information related to [Joint health](/pillar/physical-wellness/joint-health/).
 
 **Foods That Help Cartilage Repair**
 
@@ -86,6 +86,7 @@ Minerals
 
 Minerals such as zinc and magnesium support many body functions involved in tissue maintenance.
 
+
 Nuts, seeds, legumes, and leafy greens can help you meet your needs.
 
 
@@ -105,8 +106,6 @@ Chia seeds
 Flaxseeds
 
 Minerals
-
-Minerals such as zinc and magnesium support many body functions involved in tissue maintenance.
 
 Nuts, seeds, legumes, and leafy greens can help you meet your needs.
 

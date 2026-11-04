@@ -51,7 +51,7 @@ Ankle rotations
 
 Hip circles
 
-Slow bodyweight squats
+Slow body weight squats
 
 These movements encourage joints to move comfortably without excessive strain.
 

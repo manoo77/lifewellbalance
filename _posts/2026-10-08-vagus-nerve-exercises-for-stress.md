@@ -60,7 +60,7 @@ Some individuals enjoy finishing a shower with cool water for a brief period.
 
 Others simply splash cool water on their face.
 
-The goal is comfort, not extreme cold exposure.
+The goal is comfort, not freezing exposure.
 
 Stress Relief Exercises for Daily Life
 

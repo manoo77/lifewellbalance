@@ -52,7 +52,7 @@ These effects are usually mild. Still, it’s important to talk with a healthcar
 🌿 Vitamin K2 Lowers Blood Sugar: A Helpful Contrast  
 
 ![top 9 vitamin k2 rich foods]({{ '/assets/img/top-9-vitmain-k2-rich-foods.webp' | relative_url }})
-
+to know more about
 While some vitamins may influence blood sugar, others help support healthy levels. One example is vitamin K2.
 
 

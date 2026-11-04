@@ -92,7 +92,7 @@ Understanding these patterns can help you make more informed food choices.
 ![low glycemic breakfast foods]({{ '/assets/img/low-glycemic-breakfast-foods.webp' | relative_url }})
 
 
-==> See also[anti-Inflammatory breakfast ideas](/posts/anti-inflammatory-breakfast-ideas/).
+==> See also [Anti-Inflammatory breakfast ideas](/posts/anti-inflammatory-breakfast-ideas/).
 
 
 **Easy Low Glycemic Breakfast Ideas**
