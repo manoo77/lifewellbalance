@@ -10,5 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap" # this is to generate a sitemap.xml file for the generated site
   gem "jekyll-email-protect" # this is to protect email addresses in the generated site
-  gem "html-proofer"    # this is to check the links in the generated site
+  gem "html-proofer"    # this is to check the links in the gen
+  gem "jekyll-redirect-from" # this is to redirect old URLs to new
 end
